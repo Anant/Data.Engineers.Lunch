@@ -14,6 +14,7 @@
 | [SQL Databases Part 2](#data-engineers-lunch-8-sql-databases-part-2) | [YouTube](https://youtu.be/Ww9pNBi6pI8) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-8-sql-databases-part-2) |
 | [Open Source & Cloud Data Catalog](#data-engineers-lunch-9-open-source--cloud-data-catalog) | [YouTube](https://youtu.be/N3rsIf-tk0U) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-9-open-source-cloud-data-catalogs) |
 | [Apache Spark Companion Technologies MLFlow](#data-engineers-lunch-11-apache-spark-companion-technologies-mlflow) | [YouTube](https://youtu.be/8JxQICDGtX4) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-11-apache-spark-companion-technologies-mlflow) |
+| [Introduction to sed for Data Engineering](#data-engineers-lunch-12-introduction-to-sed-for-data-engineering) | [YouTube](https://youtu.be/EjU_juOpa00) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-12-introduction-to-sed-for-data-engineering) |
 
 - - - 
 
@@ -84,5 +85,12 @@
 - We cover MLFlow, a tool by Databricks for managing and cataloging machine learning workflows.
     - [YouTube](https://youtu.be/8JxQICDGtX4)
     - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-11-apache-spark-companion-technologies-mlflow)
+
+- - -
+
+### [Data Engineer's Lunch #12: Introduction to sed for Data Engineering](https://blog.anant.us/data-engineers-lunch-12-introduction-to-sed-for-data-engineering/)
+- We will introduce sed, a stream editor, for data engineering. A stream editor is used to perform basic text transformations on an input stream (a file or input from a pipeline). 
+    - [YouTube](https://youtu.be/EjU_juOpa00)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-12-introduction-to-sed-for-data-engineering)
 
 - - -
