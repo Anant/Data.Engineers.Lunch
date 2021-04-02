@@ -10,6 +10,7 @@
 | [Airflow for Data Engineering](#data-engineers-lunch-4-airflow-for-data-engineering) | [YouTube](https://youtu.be/UOJAijO42vA) | [SlideShare](https://www.slideshare.net/AnantCorp/airflow-presentation-239922055) |
 | [What is a Data Lake](#data-engineers-lunch-5-what-is-a-data-lake) | [YouTube](https://youtu.be/1z3qZVY9aWU) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-5-what-is-a-data-lake) |
 | [Common Data Formats Used In Data Engineering](#data-engineers-lunch-6-common-data-formats-used-in-data-engineering) | [YouTube](https://youtu.be/m30xBgThrJo) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-6-common-data-formats-used-in-data-engineering) |
+| [SQL Databases](#data-engineers-lunch-7-sql-databases) | [YouTube](https://youtu.be/LmbUXZTF-e8) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-7-sql-databases) |
 
 - - - 
 
@@ -52,5 +53,12 @@
 - We discuss common data formats used in data engineering including text/file and binary formats.
     - [YouTube](https://youtu.be/m30xBgThrJo)
     - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-6-common-data-formats-used-in-data-engineering)
+
+- - -
+
+### [Data Engineer's Lunch #7: SQL Databases](https://blog.anant.us/data-engineers-lunch-7-sql-databases/)
+- We discuss relational concepts including the history of RDBMS, the general need for SQL databases, rules of design, and normalization. We also discuss popular SQL databases, and their advantages and disadvantages.
+    - [YouTube](https://youtu.be/LmbUXZTF-e8)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-7-sql-databases)
 
 - - -
