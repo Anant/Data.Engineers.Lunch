@@ -11,6 +11,8 @@
 | [What is a Data Lake](#data-engineers-lunch-5-what-is-a-data-lake) | [YouTube](https://youtu.be/1z3qZVY9aWU) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-5-what-is-a-data-lake) |
 | [Common Data Formats Used In Data Engineering](#data-engineers-lunch-6-common-data-formats-used-in-data-engineering) | [YouTube](https://youtu.be/m30xBgThrJo) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-6-common-data-formats-used-in-data-engineering) |
 | [SQL Databases](#data-engineers-lunch-7-sql-databases) | [YouTube](https://youtu.be/LmbUXZTF-e8) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-7-sql-databases) |
+| [SQL Databases Part 2](#data-engineers-lunch-8-sql-databases-part-2) | [YouTube](https://youtu.be/Ww9pNBi6pI8) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-8-sql-databases-part-2) |
+| [Open Source & Cloud Data Catalog](#data-engineers-lunch-9-open-source--cloud-data-catalog) | [YouTube](https://youtu.be/N3rsIf-tk0U) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-9-open-source-cloud-data-catalogs) |
 
 - - - 
 
@@ -60,5 +62,19 @@
 - We discuss relational concepts including the history of RDBMS, the general need for SQL databases, rules of design, and normalization. We also discuss popular SQL databases, and their advantages and disadvantages.
     - [YouTube](https://youtu.be/LmbUXZTF-e8)
     - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-7-sql-databases)
+
+- - -
+
+### [Data Engineer's Lunch #8: SQL Databases part 2](https://blog.anant.us/data-engineers-lunch-8-sql-databases-2/)
+- We continue our discussion of relational concepts, popular SQL databases, and advantages and disadvantages. We also discuss Cloud Databases and database tools compatible with SQL databases.
+    - [YouTube](https://youtu.be/Ww9pNBi6pI8)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-8-sql-databases-part-2)
+
+- - -
+
+### [Data Engineer's Lunch #9: Open Source & Cloud Data Catalog](https://blog.anant.us/data-engineers-lunch-9-open-source-cloud-data-catalogs/)
+- We discuss data catalogs, which help users keep track of data.
+    - [YouTube](https://youtu.be/N3rsIf-tk0U)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-9-open-source-cloud-data-catalogs)
 
 - - -
