@@ -13,6 +13,7 @@
 | [SQL Databases](#data-engineers-lunch-7-sql-databases) | [YouTube](https://youtu.be/LmbUXZTF-e8) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-7-sql-databases) |
 | [SQL Databases Part 2](#data-engineers-lunch-8-sql-databases-part-2) | [YouTube](https://youtu.be/Ww9pNBi6pI8) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-8-sql-databases-part-2) |
 | [Open Source & Cloud Data Catalog](#data-engineers-lunch-9-open-source--cloud-data-catalog) | [YouTube](https://youtu.be/N3rsIf-tk0U) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-9-open-source-cloud-data-catalogs) |
+| [NoSQL Databases: Part 1](#data-engineers-lunch-10-nosql-databases---part-1) | [YouTube](https://youtu.be/GhcizWNbFtc) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-10-nosql-part-1) |
 | [Apache Spark Companion Technologies MLFlow](#data-engineers-lunch-11-apache-spark-companion-technologies-mlflow) | [YouTube](https://youtu.be/8JxQICDGtX4) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-11-apache-spark-companion-technologies-mlflow) |
 | [Introduction to sed for Data Engineering](#data-engineers-lunch-12-introduction-to-sed-for-data-engineering) | [YouTube](https://youtu.be/EjU_juOpa00) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-12-introduction-to-sed-for-data-engineering) |
 
@@ -78,6 +79,13 @@
 - We discuss data catalogs, which help users keep track of data.
     - [YouTube](https://youtu.be/N3rsIf-tk0U)
     - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-9-open-source-cloud-data-catalogs)
+
+- - -
+
+### [Data Engineer's Lunch #10: NoSQL Databases - Part 1](https://blog.anant.us/data-engineers-lunch-10-nosql-part-1/)
+- We discuss data catalogs, which help users keep track of data.
+    - [YouTube](https://youtu.be/GhcizWNbFtc)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-10-nosql-part-1)
 
 - - -
 
