@@ -16,6 +16,11 @@
 | [NoSQL Databases: Part 1](#data-engineers-lunch-10-nosql-databases---part-1) | [YouTube](https://youtu.be/GhcizWNbFtc) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-10-nosql-part-1) |
 | [Apache Spark Companion Technologies MLFlow](#data-engineers-lunch-11-apache-spark-companion-technologies-mlflow) | [YouTube](https://youtu.be/8JxQICDGtX4) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-11-apache-spark-companion-technologies-mlflow) |
 | [Introduction to sed for Data Engineering](#data-engineers-lunch-12-introduction-to-sed-for-data-engineering) | [YouTube](https://youtu.be/EjU_juOpa00) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-12-introduction-to-sed-for-data-engineering) |
+| [Introduction to Airflow](#data-engineers-lunch-13-introduction-to-airflow) | [YouTube](https://youtu.be/9SYhd2yfE_4) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-13) |
+| [NoSQL Databases: Part 2 CAP Theorem](#data-engineers-lunch-14-nosql-databases-part-2---cap-theorem) | [YouTube](https://youtu.be/8xaW8E8zKR4) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-14-nosql-databases-part-2-cap-theorem) |
+| [Introduction to Jenkins](#data-engineers-lunch-15-introduction-to-jenkins) | [YouTube](https://youtu.be/3joAU4PJmhs) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-15-intro-to-jenkins) |
+| [Introduction to awk for Data Engineering](#data-engineers-lunch-16-introduction-to-awk-for-data-engineering) | [YouTube](https://youtu.be/yizvRBqy-mE) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-16-introduction-to-awk-for-data-engineering) |
+| [NoSQL Databases: Part 3 Data Store Types](#data-engineers-lunch-17-nosql-part-3-data-store-types) | [YouTube](https://youtu.be/HXwAdErr6ow) | [SlideShare](https://www.slideshare.net/AnantCorp/del-17) |
 
 - - - 
 
@@ -100,5 +105,40 @@
 - We will introduce sed, a stream editor, for data engineering. A stream editor is used to perform basic text transformations on an input stream (a file or input from a pipeline). 
     - [YouTube](https://youtu.be/EjU_juOpa00)
     - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-12-introduction-to-sed-for-data-engineering)
+
+- - -
+
+### [Data Engineer's Lunch #13: Introduction to Airflow](https://blog.anant.us/data-engineers-lunch-13-introduction-to-airflow/)
+- We will cover some resources for getting started with Airflow, a python based scheduling tool with the ability to connect to a number of different data management tools. We had an overview recently from Will Angel in Data Engineers Lunch #4. This session will help beginners learn to use Airflow. 
+    - [YouTube](https://youtu.be/9SYhd2yfE_4)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-12-introduction-to-sed-for-data-engineering)
+
+- - -
+
+### [Data Engineer's Lunch #14: NoSQL Databases Part 2 - CAP Theorem](https://blog.anant.us/data-engineers-lunch-14-nosql-databases-part-2-cap-theorem/)
+- We cover the fundamental difference between relational vs most non-relation databases with ACID vs Base.
+    - [YouTube](https://youtu.be/8xaW8E8zKR4)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-14-nosql-databases-part-2-cap-theorem)
+
+- - -
+
+### [Data Engineer's Lunch #15: Introduction to Jenkins](https://blog.anant.us/data-engineers-lunch-15-introduction-to-jenkins/)
+- We will cover the use of Jenkins as a scheduling tool, have a general overview of Jenkins capabilities, and a comparison of how it stacks up against Airflow as a scheduling tool.
+    - [YouTube](https://youtu.be/3joAU4PJmhs)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-15-intro-to-jenkins)
+
+- - -
+
+### [Data Engineer's Lunch #16: Introduction to awk for Data Engineering](https://blog.anant.us/data-engineers-lunch-16-introduction-to-awk-for-data-engineering/)
+- We will introduce and demonstrate awk, a program that you can use to select particular records in a file and perform operations upon them. 
+    - [YouTube](https://youtu.be/yizvRBqy-mE)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-16-introduction-to-awk-for-data-engineering)
+
+- - -
+
+### [Data Engineer's Lunch #17: NoSQL Part 3: Data Store Types](https://blog.anant.us/data-engineers-lunch-17-nosql-part-3-data-store-types/)
+-  We discussed the four different types of data stores that underlie NoSQL databases.  
+    - [YouTube](https://youtu.be/HXwAdErr6ow)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/del-17)
 
 - - -
