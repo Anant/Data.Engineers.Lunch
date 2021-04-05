@@ -95,7 +95,7 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
 - - -
 
 ### [Data Engineer's Lunch #10: NoSQL Databases - Part 1](https://blog.anant.us/data-engineers-lunch-10-nosql-part-1/)
-- We discuss data catalogs, which help users keep track of data.
+- We discuss NoSQL datastores, specifically, different types of key-value stores.
     - [YouTube](https://youtu.be/GhcizWNbFtc)
     - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-10-nosql-part-1)
 
