@@ -3,6 +3,10 @@ Resources from weekly Zoom lunches revolving around data engineering and data en
 
 [Join Data Engineer's Lunch Weekly at 12 PM EST Every Monday](https://www.meetup.com/Data-Wranglers-DC/events/)
 
+If you would like to be a guest speaker, you can reach us at solutions@anant.us. If you would like to sponsor Data Engineer's Lunch, please reach us at the email listed.
+
+Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.com/playlist?list=PLmZzyjM-vqX7LvfN9vONdClnNxigeENw6)
+
 ## Table of Contents
 
 | Jump To Topic | YouTube | SlideShare |
