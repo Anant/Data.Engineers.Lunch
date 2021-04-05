@@ -1,4 +1,7 @@
 # Data.Engineers.Lunch
+Resources from weekly Zoom lunches revolving around data engineering and data engineering-related topics. Hosted by Anant Corporation.
+
+[Join Data Engineer's Lunch Weekly at 12 PM EST Every Monday](https://www.meetup.com/Data-Wranglers-DC/events/)
 
 ## Table of Contents
 
