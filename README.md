@@ -28,6 +28,7 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
 | [Introduction to Jenkins](#data-engineers-lunch-15-introduction-to-jenkins) | [YouTube](https://youtu.be/3joAU4PJmhs) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-15-intro-to-jenkins) |
 | [Introduction to awk for Data Engineering](#data-engineers-lunch-16-introduction-to-awk-for-data-engineering) | [YouTube](https://youtu.be/yizvRBqy-mE) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-16-introduction-to-awk-for-data-engineering) |
 | [NoSQL Databases: Part 3 Data Store Types](#data-engineers-lunch-17-nosql-part-3-data-store-types) | [YouTube](https://youtu.be/HXwAdErr6ow) | [SlideShare](https://www.slideshare.net/AnantCorp/del-17) |
+| [Luigi for Scheduling](#data-engineers-lunch-18-luigi-for-scheduling) | [YouTube](https://youtu.be/hk9v_GBNcXY) | [SlideShare](https://www.slideshare.net/AnantCorp/del-18-luigi-for-scheduling) |
 
 - - - 
 
@@ -147,5 +148,12 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
 -  We discussed the four different types of data stores that underlie NoSQL databases.  
     - [YouTube](https://youtu.be/HXwAdErr6ow)
     - [SlideShare](https://www.slideshare.net/AnantCorp/del-17)
+
+- - -
+
+### [Data Engineer's Lunch #18: Luigi For Scheduling](https://blog.anant.us/data-engineers-lunch-18-luigi-for-scheduling/)
+-  We discussed Luigi as a scheduling platforms alongside our previous discussions of Jenkins and Airflow. Luigi is a Python package that helps you build complex pipelines of batch jobs.  
+    - [YouTube](https://youtu.be/hk9v_GBNcXY)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/del-18-luigi-for-scheduling)
 
 - - -
