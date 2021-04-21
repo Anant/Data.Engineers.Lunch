@@ -29,6 +29,7 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
 | [Introduction to awk for Data Engineering](#data-engineers-lunch-16-introduction-to-awk-for-data-engineering) | [YouTube](https://youtu.be/yizvRBqy-mE) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-16-introduction-to-awk-for-data-engineering) |
 | [NoSQL Databases: Part 3 Data Store Types](#data-engineers-lunch-17-nosql-part-3-data-store-types) | [YouTube](https://youtu.be/HXwAdErr6ow) | [SlideShare](https://www.slideshare.net/AnantCorp/del-17) |
 | [Luigi for Scheduling](#data-engineers-lunch-18-luigi-for-scheduling) | [YouTube](https://youtu.be/hk9v_GBNcXY) | [SlideShare](https://www.slideshare.net/AnantCorp/del-18-luigi-for-scheduling) |
+| [Introduction to jq for Data Engineering](#data-engineers-lunch-19-introduction-to-jq-for-data-engineering) | [YouTube](https://youtu.be/92jUGtk_ABg) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-19-introduction-to-jq-for-data-engineering) |
 
 - - - 
 
@@ -155,5 +156,12 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
 -  We discussed Luigi as a scheduling platforms alongside our previous discussions of Jenkins and Airflow. Luigi is a Python package that helps you build complex pipelines of batch jobs.  
     - [YouTube](https://youtu.be/hk9v_GBNcXY)
     - [SlideShare](https://www.slideshare.net/AnantCorp/del-18-luigi-for-scheduling)
+
+- - -
+
+### [Data Engineer's Lunch #19: Introduction to jq for Data Engineering](https://blog.anant.us/data-engineers-lunch-19-introduction-to-jq-for-data-engineering/)
+-  We introduce jq and how we can use it for data engineering. jq is a command-line tool like sed for JSON data and can be used to slice, filter, map, and transform structured data.  
+    - [YouTube](https://youtu.be/92jUGtk_ABg)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-19-introduction-to-jq-for-data-engineering)
 
 - - -
