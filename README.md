@@ -30,6 +30,8 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
 | [NoSQL Databases: Part 3 Data Store Types](#data-engineers-lunch-17-nosql-part-3-data-store-types) | [YouTube](https://youtu.be/HXwAdErr6ow) | [SlideShare](https://www.slideshare.net/AnantCorp/del-17) |
 | [Luigi for Scheduling](#data-engineers-lunch-18-luigi-for-scheduling) | [YouTube](https://youtu.be/hk9v_GBNcXY) | [SlideShare](https://www.slideshare.net/AnantCorp/del-18-luigi-for-scheduling) |
 | [Introduction to jq for Data Engineering](#data-engineers-lunch-19-introduction-to-jq-for-data-engineering) | [YouTube](https://youtu.be/92jUGtk_ABg) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-19-introduction-to-jq-for-data-engineering) |
+| [DataOps vs. DevOps](#data-engineers-lunch-20-dataops-vs-devops) | [YouTube](https://youtu.be/KEYO5DN9J1w) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-20-dataops-vs-devops) |
+| [Python ETL Tools](#data-engineers-lunch-21-python-etl-tools) | [YouTube](https://youtu.be/PtQTptimVOU) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-21-python-etl-tools) |
 
 - - - 
 
@@ -163,5 +165,19 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
 -  We introduce jq and how we can use it for data engineering. jq is a command-line tool like sed for JSON data and can be used to slice, filter, map, and transform structured data.  
     - [YouTube](https://youtu.be/92jUGtk_ABg)
     - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-19-introduction-to-jq-for-data-engineering)
+
+- - -
+
+### [Data Engineer's Lunch #20: DataOps vs. DevOps](https://blog.anant.us/data-engineers-lunch-20-dataops-vs-devops/)
+-  We discuss the definitions and differences between DataOps (Data Operations) and DevOps (Dev Operations).  
+    - [YouTube](https://youtu.be/KEYO5DN9J1w)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-20-dataops-vs-devops)
+
+- - -
+
+### [Data Engineer's Lunch #21: Python ETL Tools](https://blog.anant.us/data-engineers-lunch-21-python-etl-tools/)
+-  We discuss, compare, and contrast a number of ETL tools for Python.
+    - [YouTube](https://youtu.be/PtQTptimVOU)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-21-python-etl-tools)
 
 - - -
