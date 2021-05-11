@@ -32,6 +32,7 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
 | [Introduction to jq for Data Engineering](#data-engineers-lunch-19-introduction-to-jq-for-data-engineering) | [YouTube](https://youtu.be/92jUGtk_ABg) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-19-introduction-to-jq-for-data-engineering) |
 | [DataOps vs. DevOps](#data-engineers-lunch-20-dataops-vs-devops) | [YouTube](https://youtu.be/KEYO5DN9J1w) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-20-dataops-vs-devops) |
 | [Python ETL Tools](#data-engineers-lunch-21-python-etl-tools) | [YouTube](https://youtu.be/PtQTptimVOU) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-21-python-etl-tools) |
+| [Prometheus](#data-engineers-lunch-22-prometheus) | [YouTube](https://youtu.be/wMJeG_wGmEk) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-22-prometheus) |
 
 - - - 
 
@@ -179,5 +180,12 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
 -  We discuss, compare, and contrast a number of ETL tools for Python.
     - [YouTube](https://youtu.be/PtQTptimVOU)
     - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-21-python-etl-tools)
+
+- - -
+
+### [Data Engineer's Lunch #22: Prometheus](https://blog.anant.us/data-engineers-lunch-22-prometheus/)
+-  Guest speaker Will Angel covers the topic of using Prometheus for data engineering. Prometheus is a monitoring system & time series database.
+    - [YouTube](https://youtu.be/wMJeG_wGmEk)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-22-prometheus)
 
 - - -
