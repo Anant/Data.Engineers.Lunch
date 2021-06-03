@@ -33,6 +33,9 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
 | [DataOps vs. DevOps](#data-engineers-lunch-20-dataops-vs-devops) | [YouTube](https://youtu.be/KEYO5DN9J1w) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-20-dataops-vs-devops) |
 | [Python ETL Tools](#data-engineers-lunch-21-python-etl-tools) | [YouTube](https://youtu.be/PtQTptimVOU) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-21-python-etl-tools) |
 | [Prometheus](#data-engineers-lunch-22-prometheus) | [YouTube](https://youtu.be/wMJeG_wGmEk) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-22-prometheus) |
+| [Thanos/Cortex](#data-engineers-lunch-23-thanoscortex) | [YouTube](https://youtu.be/uCD7cetQ8z4) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-23-thanoscortex) |
+| [Pandas for Data Engineering](#data-engineers-lunch-24-pandas-for-data-engineering) | [YouTube](https://youtu.be/PvyS4WCHq_k) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-24-pandas-for-data-engineering) |
+| [Airflow and Spark](#data-engineers-lunch-25-airflow-and-spark) | [YouTube](https://youtu.be/V-Ux18que6A) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-25-airflow-and-spark) |
 
 - - - 
 
@@ -187,5 +190,26 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
 -  Guest speaker Will Angel covers the topic of using Prometheus for data engineering. Prometheus is a monitoring system & time series database.
     - [YouTube](https://youtu.be/wMJeG_wGmEk)
     - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-22-prometheus)
+
+- - -
+
+### [Data Engineer's Lunch #23: Thanos/Cortex](https://blog.anant.us/data-engineers-lunch-23-thanos-and-cortex/)
+-  Rahul Singh covers the topics of Thanos and Cortex.
+    - [YouTube](https://youtu.be/uCD7cetQ8z4)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-23-thanoscortex)
+
+- - -
+
+### [Data Engineer's Lunch #24: Pandas for Data Engineering](https://blog.anant.us/data-engineers-lunch-24-pandas-for-data-engineering/)
+-  We continue our discussion of Python ETL tools with a more in-depth look at Pandas.
+    - [YouTube](https://youtu.be/PvyS4WCHq_k)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-24-pandas-for-data-engineering)
+
+- - -
+
+### [Data Engineer's Lunch #25: Airflow and Spark](https://blog.anant.us/data-engineers-lunch-25-airflow-and-spark/)
+-  We will discuss how we can use Airflow to schedule Spark jobs.
+    - [YouTube](https://youtu.be/V-Ux18que6A)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-25-airflow-and-spark)
 
 - - -
