@@ -37,7 +37,9 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
 | [Pandas for Data Engineering](#data-engineers-lunch-24-pandas-for-data-engineering) | [YouTube](https://youtu.be/PvyS4WCHq_k) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-24-pandas-for-data-engineering) |
 | [Airflow and Spark](#data-engineers-lunch-25-airflow-and-spark) | [YouTube](https://youtu.be/V-Ux18que6A) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-25-airflow-and-spark) |
 | [Akka Actors for Data Processing](#data-engineers-lunch-26-akka-actors-for-data-processing) | [YouTube](https://youtu.be/NmPECPU5SkA) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-26-akka-actors-for-data-processing) |
-
+| [Data Processing with Containers: Docker & Kubernetes Tools for Data Engineering](#data-engineers-lunch-27-data-processing-with-containers-docker--kubernetes-tools-for-data-engineering) | [YouTube](https://youtu.be/814lcIuLUYM) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-27-data-processing-with-containers-docker-kubernetes-tools-for-data-engineering) |
+| [Petl for Data Engineering](#data-engineers-lunch-28-petl-for-data-engineering) | [YouTube](https://youtu.be/llRLh8cM7QI) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-28-petl-for-data-engineering) |
+| [Introduction to Apache Nifi](#data-engineers-lunch-29-introduction-to-apache-nifi) | [YouTube](https://youtu.be/weVVpcg716o) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-29-introduction-to-apache-nifi) |
 - - - 
 
 ### [Data Engineer's Lunch #1: Data Engineering Road-map](https://blog.anant.us/data-engineers-lunch-1-data-engineering-roadmap/)
@@ -219,5 +221,26 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
 -  We discuss how to use Akka Actors for concurrent data processing operations. 
     - [YouTube](https://youtu.be/NmPECPU5SkA)
     - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-26-akka-actors-for-data-processing)
+
+- - -
+
+### [Data Engineer's Lunch #27: Data Processing with Containers: Docker & Kubernetes Tools for Data Engineering](https://blog.anant.us/data-engineers-lunch-27-data-processing-with-containers-kubernetes-tools-for-data-engineering/)
+-  We discuss data processing with different container tools. 
+    - [YouTube](https://youtu.be/814lcIuLUYM)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-27-data-processing-with-containers-docker-kubernetes-tools-for-data-engineering)
+
+- - -
+
+### [Data Engineer's Lunch #28: Petl for Data Engineering](https://blog.anant.us/data-engineers-lunch-28-petl-for-data-engineering/)
+-  We continue our discussion of Python ETL tools with a more in-depth look at Petl. 
+    - [YouTube](https://youtu.be/llRLh8cM7QI)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-28-petl-for-data-engineering)
+
+- - -
+
+### [Data Engineer's Lunch #29: Introduction to Apache Nifi](https://blog.anant.us/data-engineers-lunch-29-introduction-to-apache-nifi/)
+-  We introduce Apache Nifi and discuss how we can use it for data engineering. 
+    - [YouTube](https://youtu.be/weVVpcg716o)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-29-introduction-to-apache-nifi)
 
 - - -
