@@ -403,7 +403,7 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
 ### Data Engineer's Lunch #52: JupyterHub/JupyterLab on Kubernetes
 -   In Data Engineer's Lunch #52 we will deploy JupyterHub/JupyterLab on Kubernetes
     - [YouTube](https://youtu.be/QaXHuqHr8bQ)
-    - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-50-airbyte-for-data-engineering)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-52-jupyterhubjupyterlab-on-kubernetes)
 
 - - -
 ### Data Engineer's Lunch #53: 2021 in Review
