@@ -40,6 +40,39 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
 | [Data Processing with Containers: Docker & Kubernetes Tools for Data Engineering](#data-engineers-lunch-27-data-processing-with-containers-docker--kubernetes-tools-for-data-engineering) | [YouTube](https://youtu.be/814lcIuLUYM) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-27-data-processing-with-containers-docker-kubernetes-tools-for-data-engineering) |
 | [Petl for Data Engineering](#data-engineers-lunch-28-petl-for-data-engineering) | [YouTube](https://youtu.be/llRLh8cM7QI) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-28-petl-for-data-engineering) |
 | [Introduction to Apache Nifi](#data-engineers-lunch-29-introduction-to-apache-nifi) | [YouTube](https://youtu.be/weVVpcg716o) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-29-introduction-to-apache-nifi) |
+| [Databand](#data-engineers-lunch-30-databand) | [YouTube](https://youtu.be/BnLH0y21s7c) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-30-databand-249808649i) |
+| [Migrating from PostgreSQL to Cassandra](#data-engineers-lunch-31-migrating-from-postgresql-to-cassandra) | [YouTube](https://youtu.be/f9IRTGLGCgA) | [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-55-migrating-postgresql-to-cassandra) |
+| [Converting JSON to CSV](#data-engineers-lunch-32-converting-json-to-csv) | [YouTube](https://youtu.be/kyIP-fCLHrM) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-32-converting-json-to-csv) |
+| [Using Spark, Cassandra, and Elasticsearch for Data Processing](#data-engineers-lunch-33-using-spark-cassandra-and-elasticsearch-for-data-processing) | [YouTube](https://youtu.be/6avefsHVDZg) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-33-using-spark-cassandra-and-elasticsearch-for-data-processing) |
+| [DBeaver](#data-engineers-lunch-34-dbeaver) | [YouTube](https://youtu.be/cXopJcvbpts) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-34-dbeaver) |
+| [Introduction to Snowflake](#data-engineers-lunch-35-introduction-to-snowflake) | [YouTube](https://youtu.be/kQaYvfrWiPk) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-35-introduction-to-snowflake) |
+| [Amundsen/DSE + Airflow](#data-engineers-lunch-36-amundsendse--airflow) | [YouTube](https://youtu.be/uUbjp2Muvvw) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-36-amundsendse-with-airflow) |
+| [Pipedream: Serverless Integration and Compute Platform](#data-engineers-lunch-37-pipedream-serverless-integration-and-compute-platform) | [YouTube](https://youtu.be/I9pGvCeDNJs) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-37-pipedream-serverless-integration-and-compute-platform) |
+| [Dapr Cloud](#data-engineers-lunch-39-dapr-cloud) | [YouTube](https://youtu.be/y9gkH2YNkQw) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-39-dapr-cloud) |
+| [Streaming Real Time vs Batch for ETL](#data-engineers-lunch-40-streaming-real-time-vs-batch-for-etl) | [YouTube](https://youtu.be/34twOVgpl20) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-40-streaming-real-time-vs-batch-for-etl) |
+| [PygramETL](#data-engineers-lunch-41-pygrametl) | [YouTube](https://youtu.be/YiPuJyYLXxs) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-41-pygrametll) |
+| [Introduction to Databricks](#data-engineers-lunch-42-introduction-to-databricks) | [YouTube](https://youtu.be/Qdsz5EqbFRs) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-42-introduction-to-databricks) |
+| [Introduction to Databricks](#data-engineers-lunch-42-introduction-to-databricks) | [YouTube](https://youtu.be/Qdsz5EqbFRs) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-42-introduction-to-databricks) |
+| [Bodo.ai - Karthik Narayanan](#data-engineers-lunch-43-bodoai---karthik-narayanan) | [YouTube]() | [SlideShare]() |
+| [Prefect](#data-engineers-lunch-44-prefect) | [YouTube](https://youtu.be/P184heuv8ws) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-44-prefect) |
+| [Apache Livy](#data-engineers-lunch-45-apache-livy) | [YouTube](https://youtu.be/WMRN815FuQ8) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-45-apache-livy) |
+| [Node.js and API calls](#data-engineers-lunch-46-nodejs-and-api-calls) | [YouTube](https://youtu.be/Um9Y6lyvo8U) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-46-nodejs-and-api-calls) |
+| [Airflow on Kubernetes](#data-engineers-lunch-47--airflow-on-kubernetes) | [YouTube](https://youtu.be/jaDykaEFops) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-47-airflow-on-kubernetes) |
+| [Veezoo - João Pedro Monteiro](#data-engineers-lunch-48-veezoo---joo-pedro-monteiro) | [YouTube]() | [SlideShare]() |
+| [Meltano for Data Engineering](#data-engineers-lunch-49-meltano-for-data-engineering) | [YouTube](https://youtu.be/ehv2xE-FaAQ) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-49-meltano-for-data-engineering) |
+| [Airbyte for Data Engineering](#data-engineers-lunch-50-airbyte-for-data-engineering) | [YouTube](https://youtu.be/2A50P2TqtUk) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-50-airbyte-for-data-engineering) |
+| [Comparison of Managed Airflow Options](#data-engineers-lunch-51-comparison-of-managed-airflow-options) | [YouTube]() | [SlideShare]() |
+| [JupyterHub/JupyterLab on Kubernetes ](#data-engineers-lunch-52-jupyterhubjupyterlab-on-kubernetes) | [YouTube](https://youtu.be/QaXHuqHr8bQ) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-52-jupyterhubjupyterlab-on-kubernetes) |
+| [2021 in Review](#data-engineers-lunch-52-jupyterhubjupyterlab-on-kubernetes) | [YouTube]() | [SlideShare]() |
+| [dbt and Spark](#data-engineers-lunch-54-dbt-and-spark) | [YouTube](https://youtu.be/dwZlYG6RCSY) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-54-dbt-and-spark) |
+| [Get Started in Data Engineering](#data-engineers-lunch-55-get-started-in-data-engineering) | [YouTube](https://youtu.be/8Z5GmzvvPkQ) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-55-get-started-in-data-engineering) |
+| [Spring Cloud Data Flow with Cassandra](#data-engineers-lunch-56-spring-cloud-data-flow-with-cassandra) | [YouTube]() | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-56-spring-cloud-data-flow-with-cassandra) |
+| [StreamSets for Data Engineering](#data-engineers-lunch-57-streamsets-for-data-engineering) | [YouTube](https://youtu.be/_w-gnzSkwCs) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-57-streamsets-for-data-engineering) |
+| [InfinyOn](#data-engineers-lunch-58-infinyon) | [YouTube](https://youtu.be/P9NqdpRV3hk) | [SlideShare]() |
+| [Spark Tasks and Distribution](#data-engineers-lunch-59-spark-tasks-and-distribution) | [YouTube](https://youtu.be/kxWOLCMI5OI) | [SlideShare]() |
+| [Series - Developing Enterprise Consciousness](#data-engineers-lunch-60-series---developing-enterprise-consciousness) | [YouTube](https://youtu.be/jkNwWbtw5QE) | [SlideShare]() |
+| [Kubevirt](#data-engineers-lunch-61-kubevirt) | [YouTube](https://youtu.be/lbKgWz1wCpQ) | [SlideShare]() |
+- - - 
 - - - 
 
 ### [Data Engineer's Lunch #1: Data Engineering Road-map](https://blog.anant.us/data-engineers-lunch-1-data-engineering-roadmap/)
@@ -238,6 +271,12 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
 
 - - -
 
+### [Data Engineer's Lunch #29: Introduction to Apache Nifi](https://blog.anant.us/data-engineers-lunch-29-introduction-to-apache-nifi/)
+-  We introduce Apache Nifi and discuss how we can use it for data engineering. 
+    - [YouTube](https://youtu.be/weVVpcg716o)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-29-introduction-to-apache-nifi)
+
+- - -
 ### [Data Engineer's Lunch #29: Introduction to Apache Nifi](https://blog.anant.us/data-engineers-lunch-29-introduction-to-apache-nifi/)
 -  We introduce Apache Nifi and discuss how we can use it for data engineering. 
     - [YouTube](https://youtu.be/weVVpcg716o)
