@@ -349,7 +349,7 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
     - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-42-introduction-to-databricks)
 
 - - -
-### [Data Engineer's Lunch #43: Bodo.ai - Karthik Narayanan]()
+### Data Engineer's Lunch #43: Bodo.ai - Karthik Narayanan
 -  In Data Engineer's Lunch #43, Karthik Narayanan Principal Solutions Architect and Bodo.ai will be demonstrating what Bodo.ai is and its capabilities.
     - [YouTube](https://youtu.be/TIzdmEBdQ8Q)
 
@@ -378,7 +378,7 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
     - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-47-airflow-on-kubernetes)
 
 - - -
-### [Data Engineer's Lunch #48: Veezoo - João Pedro Monteiro]()
+### Data Engineer's Lunch #48: Veezoo - João Pedro Monteiro
 -   In Data Engineer's Lunch #48, João Pedro Monteiro (JP), co-founder and CTO of Veezoo, will be introducing Veezoo and showing how natural language interfaces are the key to enabling data democratization at companies.
     - [YouTube](https://youtu.be/kVMEIBiAu8E)
 
@@ -393,5 +393,68 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
 -   In Data Engineer's Lunch #50, we will introduce Airbyte and discuss how it can be used for data engineering
     - [YouTube](https://youtu.be/2A50P2TqtUk)
     - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-50-airbyte-for-data-engineering)
+
+- - -
+### Data Engineer's Lunch #51: Comparison of Managed Airflow Options
+-   In Data Engineer's Lunch #51: Comparison of Managed Airflow Options, guest speaker Andres Namm will be comparing AWS Airflow, GCP Airflow, Astronomer vs. self-managed Airflow.
+    - [YouTube](https://youtu.be/AI7o_2aBWZs)
+
+- - -
+### Data Engineer's Lunch #52: JupyterHub/JupyterLab on Kubernetes
+-   In Data Engineer's Lunch #52 we will deploy JupyterHub/JupyterLab on Kubernetes
+    - [YouTube](https://youtu.be/QaXHuqHr8bQ)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-50-airbyte-for-data-engineering)
+
+- - -
+### Data Engineer's Lunch #53: 2021 in Review
+-   In Data Engineer's Lunch #53, we discussed some of our most popular webinars from 2021 and received feedback from the audience about what they would like to see in 2022.
+    - [YouTube](https://youtu.be/ujHuNqsKeoA)
+
+- - -
+### Data Engineer's Lunch #54: dbt and Spark
+-   In Data Engineer's Lunch #54, we will discuss the data build tool, a tool for managing data transformations with config files rather than code. We will be connecting it to Apache Spark and using it to perform transformations.
+    - [YouTube](https://youtu.be/dwZlYG6RCSY)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-54-dbt-and-spark)
+
+- - -
+### Data Engineer's Lunch #55: Get Started in Data Engineering
+-   In Data Engineer's Lunch #55, CEO of Anant, Rahul Singh, will cover 10 resources every data engineer needs to get started or master their game.
+    - [YouTube](https://youtu.be/8Z5GmzvvPkQ)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-55-get-started-in-data-engineering)
+
+- - -
+### Data Engineer's Lunch #56: Spring Cloud Data Flow with Cassandra
+-   In Data Engineer's Lunch #55 we will be going over how to integrate Spring Cloud Data Flow with Cassandra.
+    - [YouTube](https://youtu.be/9_51LRv8Yxs)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-56-spring-cloud-data-flow-with-cassandra)
+
+- - -
+### Data Engineer's Lunch #57: StreamSets for Data Engineering
+-   In Data Engineer's Lunch #57, we will discuss StreamSets and how it can be used for data engineering.
+    - [YouTube](https://youtu.be/_w-gnzSkwCs)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-57-streamsets-for-data-engineering)
+
+- - -
+### Data Engineer's Lunch #58: InfinyOn
+-   In Data Engineer’s Lunch #58, Sehyo Chang, founder and CTO of InfinyOn, will give an introduction to Fluvio OSS and the InfinyOn Cloud data streaming platform.
+    - [YouTube](https://youtu.be/P9NqdpRV3hk)
+
+- - -
+### Data Engineer's Lunch #59: Spark Tasks and Distribution
+-   In Data Engineer's Lunch #59, we will discuss the way that Spark splits up and distributes work between nodes. We will look at some example code and view in the Spark UI, how it was distributed between nodes.
+    - [YouTube](https://youtu.be/kxWOLCMI5OI)
+    - [SlideShare]()
+
+- - -
+### Data Engineer's Lunch #60: Series - Developing Enterprise Consciousness
+-   In Data Engineer's Lunch #60, CEO of Anant, Rahul Singh, will discuss modern data processing / pipeline approaches. Want to learn about modern data engineering patterns & practices for global data platforms? High-level overview of different types, frameworks, and workflows in data processing and pipeline design.
+    - [YouTube](https://youtu.be/jkNwWbtw5QE)
+    - [SlideShare]()
+
+- - -
+### Data Engineer's Lunch #61: Kubevirt
+-   In Data Engineer's Lunch #61, Stefan Nikolovski will discuss Kubevirt.
+    - [YouTube](https://youtu.be/lbKgWz1wCpQ)
+    - [SlideShare]()
 
 - - -
