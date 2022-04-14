@@ -72,7 +72,7 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
 | [Spark Tasks and Distribution](#data-engineers-lunch-59-spark-tasks-and-distribution) | [YouTube](https://youtu.be/kxWOLCMI5OI) | [SlideShare]() |
 | [Series - Developing Enterprise Consciousness](#data-engineers-lunch-60-series---developing-enterprise-consciousness) | [YouTube](https://youtu.be/jkNwWbtw5QE) | [SlideShare]() |
 | [Kubevirt](#data-engineers-lunch-61-kubevirt) | [YouTube](https://youtu.be/lbKgWz1wCpQ) | [SlideShare]() |
-- - - 
+
 - - - 
 
 ### [Data Engineer's Lunch #1: Data Engineering Road-map](https://blog.anant.us/data-engineers-lunch-1-data-engineering-roadmap/)
@@ -335,5 +335,63 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
 -  In Data Engineer's Lunch #40: Streaming Real Time vs Batch for ETL, we will be discussing use cases for using real time stream processing or processing in batches.
     - [YouTube](https://youtu.be/34twOVgpl20)
     - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-40-streaming-real-time-vs-batch-for-etl)
+
+- - -
+### [Data Engineer's Lunch #41: PygramETL](https://blog.anant.us/data-engineers-lunch-41-pygrametl)
+-  In Data Engineer's Lunch #41, we will discuss pygrametl as part of our discussion of python ETL tools.
+    - [YouTube](https://youtu.be/YiPuJyYLXxs)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-41-pygrametl)
+
+- - -
+### [Data Engineer's Lunch #42: Introduction to Databricks](https://blog.anant.us/data-engineers-lunch-42-introduction-to-databricks)
+-  In Data Engineer's Lunch #42, we will introduce Databricks and how it can be used for data engineering.
+    - [YouTube](https://youtu.be/Qdsz5EqbFRs)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-42-introduction-to-databricks)
+
+- - -
+### [Data Engineer's Lunch #43: Bodo.ai - Karthik Narayanan]()
+-  In Data Engineer's Lunch #43, Karthik Narayanan Principal Solutions Architect and Bodo.ai will be demonstrating what Bodo.ai is and its capabilities.
+    - [YouTube](https://youtu.be/TIzdmEBdQ8Q)
+
+- - -
+### [Data Engineer's Lunch #44: Prefect](https://blog.anant.us/data-engineers-lunch-44-prefect-for-workflow-management/)
+-   In Data Engineer's Lunch #44, we will discuss Prefect and how it compares to Airflow when scheduling tasks.
+    - [YouTube](https://youtu.be/P184heuv8ws)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-44-prefect)
+
+- - -
+### [Data Engineer's Lunch #45: Apache Livy](https://blog.anant.us/data-engineers-lunch-45-apache-livy)
+-   In Data Engineer's Lunch #45, we will discuss the use of Apache Livy, which creates a REST API for interacting with Spark.
+    - [YouTube](https://youtu.be/WMRN815FuQ8)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-45-apache-livy)
+
+- - -
+### [Data Engineer's Lunch #46: Node.js and API calls](https://blog.anant.us/data-engineers-lunch-46-api-calls-on-node-js)
+-   In Data Engineer's Lunch #46, we discuss the architecture of Node.js and use it to initiate and harvest some data from an API call.
+    - [YouTube](https://youtu.be/Um9Y6lyvo8U)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-46-nodejs-and-api-calls)
+
+- - -
+### [Data Engineer's Lunch #47:  Airflow on Kubernetes](https://blog.anant.us/data-engineers-lunch-47-airflow-on-kubernetes/)
+-   In Data Engineer's Lunch #47, we will use Kubernetes to deploy airflow
+    - [YouTube](https://youtu.be/jaDykaEFops)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-47-airflow-on-kubernetes)
+
+- - -
+### [Data Engineer's Lunch #48: Veezoo - João Pedro Monteiro]()
+-   In Data Engineer's Lunch #48, João Pedro Monteiro (JP), co-founder and CTO of Veezoo, will be introducing Veezoo and showing how natural language interfaces are the key to enabling data democratization at companies.
+    - [YouTube](https://youtu.be/kVMEIBiAu8E)
+
+- - -
+### [Data Engineer's Lunch #49: Meltano for Data Engineering](https://blog.anant.us/data-engineers-lunch-49-meltano-for-data-engineering/)
+-   In Data Engineer's Lunch #49, we will be introducing Meltano and how it can be used for ELT in data engineering.
+    - [YouTube](https://youtu.be/ehv2xE-FaAQ)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-49-meltano-for-data-engineering)
+
+- - -
+### [Data Engineer's Lunch #50: Airbyte for Data Engineering](https://blog.anant.us/data-engineers-lunch-50-airbyte/)
+-   In Data Engineer's Lunch #50, we will introduce Airbyte and discuss how it can be used for data engineering
+    - [YouTube](https://youtu.be/2A50P2TqtUk)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-50-airbyte-for-data-engineering)
 
 - - -
