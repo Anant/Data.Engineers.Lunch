@@ -277,9 +277,63 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
     - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-29-introduction-to-apache-nifi)
 
 - - -
-### [Data Engineer's Lunch #29: Introduction to Apache Nifi](https://blog.anant.us/data-engineers-lunch-29-introduction-to-apache-nifi/)
--  We introduce Apache Nifi and discuss how we can use it for data engineering. 
-    - [YouTube](https://youtu.be/weVVpcg716o)
-    - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-29-introduction-to-apache-nifi)
+### [Data Engineer's Lunch #30: Databand](https://blog.anant.us/data-engineers-lunch-30-databand)
+-  In Data Engineer’s Lunch #30 we discuss the differences between the open-source and paid versions of Databand and have Databand CEO Josh Benamram walk us through a demo of the paid version.
+    - [YouTube](https://youtu.be/BnLH0y21s7c)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-30-databand-249808649)
+
+- - -
+### [Data Engineer's Lunch #31: Migrating from PostgreSQL to Cassandra](https://blog.anant.us/apache-cassandra-lunch-55-migrating-postgresql-to-cassandra/)
+-  In Data Engineer's Lunch #31, we will discuss the process and reasons for migrating your database from SQL(PostgreSQL) to NoSQL(Cassandra)
+    - [YouTube](https://youtu.be/f9IRTGLGCgA)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/apache-cassandra-lunch-55-migrating-postgresql-to-cassandra)
+
+- - -
+### [Data Engineer's Lunch #32: Converting JSON to CSV](https://blog.anant.us/data-engineers-lunch-32-converting-json-to-csv)
+-  In Data Engineer's Lunch #32, we will discuss different ways to convert json files into csv files.
+    - [YouTube](https://youtu.be/kyIP-fCLHrM)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-32-converting-json-to-csv)
+
+- - -
+### [Data Engineer's Lunch #33: Using Spark, Cassandra, and Elasticsearch for Data Processing](https://blog.anant.us/data-engineers-lunch-33-using-spark-cassandra-and-elasticsearch-for-data-processing/)
+-  In Data Engineer's Lunch #33, we will discuss how you can use Spark and Spark jobs to load data from a csv file, and save + load the data into Cassandra and Elasticsearch.
+    - [YouTube](https://youtu.be/6avefsHVDZg)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-33-using-spark-cassandra-and-elasticsearch-for-data-processing)
+
+- - -
+### [Data Engineer's Lunch #34: DBeaver](https://blog.anant.us/data-engineers-lunch-34-dbeaver/)
+-  In Data Engineer's Lunch #34: DBeaver, we will be discussing what DBeaver is and how it can be used in data engineering.
+    - [YouTube](https://youtu.be/cXopJcvbpts)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-34-dbeaver)
+
+- - -
+### [Data Engineer's Lunch #35: Introduction to Snowflake](https://blog.anant.us/data-engineers-lunch-35-introduction-to-snowflake/)
+-  In Data Engineer's Lunch #35: Introduction to Snowflake, we will introduce Snowflake and discuss how it can be used for Data Engineering.
+    - [YouTube](https://youtu.be/kQaYvfrWiPk)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-35-introduction-to-snowflake)
+
+- - -
+### [Data Engineer's Lunch #36: Amundsen/DSE + Airflow](https://blog.anant.us/data-engineers-lunch-36-amundsen-dse-with-airflow/)
+-  In Data Engineer's Lunch #36, we will discuss data discovery with Amundsen.
+    - [YouTube](https://youtu.be/uUbjp2Muvvw)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-36-amundsendse-with-airflow)
+
+- - -
+### [Data Engineer's Lunch #37: Pipedream: Serverless Integration and Compute Platform](https://blog.anant.us/data-engineers-lunch-37-pipedream-serverless-integration-and-compute-platform/)
+-  In Data Engineer's Lunch #37, we will discuss Pipedream, a serverless integration and compute platform that is free for individual developers to use. 
+    - [YouTube](https://youtu.be/I9pGvCeDNJs)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-37-pipedream-serverless-integration-and-compute-platform)
+
+- - -
+### [Data Engineer's Lunch #39: Dapr Cloud](https://blog.anant.us/data-engineers-lunch-39-dapr-cloud/)
+-  In Data Engineer's Lunch #39: Dapr Cloud we will discuss how to use Dapr to make a cloud Application
+    - [YouTube](https://youtu.be/y9gkH2YNkQw)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-39-dapr-cloud)
+
+- - -
+### [Data Engineer's Lunch #40: Streaming Real Time vs Batch for ETL](https://blog.anant.us/data-engineers-lunch-40-streaming-vs-batch-for-etl/)
+-  In Data Engineer's Lunch #40: Streaming Real Time vs Batch for ETL, we will be discussing use cases for using real time stream processing or processing in batches.
+    - [YouTube](https://youtu.be/34twOVgpl20)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-40-streaming-real-time-vs-batch-for-etl)
 
 - - -
