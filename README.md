@@ -71,7 +71,7 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
 | [Spring Cloud Data Flow with Cassandra](#data-engineers-lunch-56-spring-cloud-data-flow-with-cassandra) | [YouTube](https://youtu.be/9_51LRv8Yxs) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-56-spring-cloud-data-flow-with-cassandra) |
 | [StreamSets for Data Engineering](#data-engineers-lunch-57-streamsets-for-data-engineering) | [YouTube](https://youtu.be/_w-gnzSkwCs) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-57-streamsets-for-data-engineering) |
 | [InfinyOn](#data-engineers-lunch-58-infinyon) | [YouTube](https://youtu.be/P9NqdpRV3hk) |
-| [Spark Tasks and Distribution](#data-engineers-lunch-59-spark-tasks-and-distribution) | [YouTube](https://youtu.be/kxWOLCMI5OI) | [SlideShare]() |
+| [Spark Tasks and Distribution](#data-engineers-lunch-59-spark-tasks-and-distribution) | [YouTube](https://youtu.be/kxWOLCMI5OI) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-59-spark-tasks-and-distribution) |
 | [Series - Developing Enterprise Consciousness](#data-engineers-lunch-60-series---developing-enterprise-consciousness) | [YouTube](https://youtu.be/jkNwWbtw5QE) | [SlideShare]() |
 | [Kubevirt](#data-engineers-lunch-61-kubevirt) | [YouTube](https://youtu.be/lbKgWz1wCpQ) | [SlideShare]() |
 
@@ -445,7 +445,7 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
 ### Data Engineer's Lunch #59: Spark Tasks and Distribution
 -   In Data Engineer's Lunch #59, we will discuss the way that Spark splits up and distributes work between nodes. We will look at some example code and view in the Spark UI, how it was distributed between nodes.
     - [YouTube](https://youtu.be/kxWOLCMI5OI)
-    - [SlideShare]()
+    - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-59-spark-tasks-and-distribution)
 
 - - -
 ### Data Engineer's Lunch #60: Series - Developing Enterprise Consciousness
