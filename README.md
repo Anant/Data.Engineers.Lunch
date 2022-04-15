@@ -54,13 +54,12 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
 | [Streaming Real Time vs Batch for ETL](#data-engineers-lunch-40-streaming-real-time-vs-batch-for-etl) | [YouTube](https://youtu.be/34twOVgpl20) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-40-streaming-real-time-vs-batch-for-etl) |
 | [PygramETL](#data-engineers-lunch-41-pygrametl) | [YouTube](https://youtu.be/YiPuJyYLXxs) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-41-pygrametll) |
 | [Introduction to Databricks](#data-engineers-lunch-42-introduction-to-databricks) | [YouTube](https://youtu.be/Qdsz5EqbFRs) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-42-introduction-to-databricks) |
-| [Introduction to Databricks](#data-engineers-lunch-42-introduction-to-databricks) | [YouTube](https://youtu.be/Qdsz5EqbFRs) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-42-introduction-to-databricks) |
 | [Bodo.ai - Karthik Narayanan](#data-engineers-lunch-43-bodoai---karthik-narayanan) | [YouTube](https://youtu.be/TIzdmEBdQ8Q) |
 | [Prefect](#data-engineers-lunch-44-prefect) | [YouTube](https://youtu.be/P184heuv8ws) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-44-prefect) |
 | [Apache Livy](#data-engineers-lunch-45-apache-livy) | [YouTube](https://youtu.be/WMRN815FuQ8) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-45-apache-livy) |
 | [Node.js and API calls](#data-engineers-lunch-46-nodejs-and-api-calls) | [YouTube](https://youtu.be/Um9Y6lyvo8U) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-46-nodejs-and-api-calls) |
 | [Airflow on Kubernetes](#data-engineers-lunch-47--airflow-on-kubernetes) | [YouTube](https://youtu.be/jaDykaEFops) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-47-airflow-on-kubernetes) |
-| [Veezoo - João Pedro Monteiro](#data-engineers-lunch-48-veezoo---joo-pedro-monteiro) | [YouTube](https://youtu.be/kVMEIBiAu8E) |
+| [Veezoo - João Pedro Monteiro](#data-engineers-lunch-48-veezoo---joo-pedro-monteiro) | [YouTube](https://youtu.be/kVMEIBiAu8E) | |
 | [Meltano for Data Engineering](#data-engineers-lunch-49-meltano-for-data-engineering) | [YouTube](https://youtu.be/ehv2xE-FaAQ) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-49-meltano-for-data-engineering) |
 | [Airbyte for Data Engineering](#data-engineers-lunch-50-airbyte-for-data-engineering) | [YouTube](https://youtu.be/2A50P2TqtUk) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-50-airbyte-for-data-engineering) |
 | [Comparison of Managed Airflow Options](#data-engineers-lunch-51-comparison-of-managed-airflow-options) | [YouTube](https://youtu.be/AI7o_2aBWZs) | 
