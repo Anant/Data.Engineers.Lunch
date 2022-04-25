@@ -73,6 +73,7 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
 | [Spark Tasks and Distribution](#data-engineers-lunch-59-spark-tasks-and-distribution) | [YouTube](https://youtu.be/kxWOLCMI5OI) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-59-spark-tasks-and-distribution) |
 | [Series - Developing Enterprise Consciousness](#data-engineers-lunch-60-series---developing-enterprise-consciousness) | [YouTube](https://youtu.be/jkNwWbtw5QE) | [SlideShare]() |
 | [Kubevirt](#data-engineers-lunch-61-kubevirt) | [YouTube](https://youtu.be/lbKgWz1wCpQ) | [SlideShare]() |
+| [Data Engineer's Lunch #63: Building a Cryptocurrency Data Catalogue](#data-engineers-lunch-63-building-a-cryptocurrency-data-catalogue) | [YouTube](https://youtu.be/_YltwetuPK0) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-63-building-a-cryptocurrency-data-catalogue) |
 
 - - - 
 
@@ -457,5 +458,12 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
 -   In Data Engineer's Lunch #61, Stefan Nikolovski will discuss Kubevirt.
     - [YouTube](https://youtu.be/lbKgWz1wCpQ)
     - [SlideShare]()
+
+- - -
+
+### Data Engineer's Lunch #63: Building a Cryptocurrency Data Catalogue
+-   In Data Engineer’s Lunch #63, Travis Collins, founder of the open source project DataPM, will present DataPM, how to get access to cryptocurrency, and blockchain data. This is part 1 of a series with Decodable on processing real-time crypto transactions fed by DataPM.
+    - [YouTube](https://youtu.be/_YltwetuPK0)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-63-building-a-cryptocurrency-data-catalogue)
 
 - - -
