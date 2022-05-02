@@ -74,6 +74,7 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
 | [Series - Developing Enterprise Consciousness](#data-engineers-lunch-60-series---developing-enterprise-consciousness) | [YouTube](https://youtu.be/jkNwWbtw5QE) | [SlideShare]() |
 | [Kubevirt](#data-engineers-lunch-61-kubevirt) | [YouTube](https://youtu.be/lbKgWz1wCpQ) | [SlideShare]() |
 | [Building a Cryptocurrency Data Catalogue](#data-engineers-lunch-63-building-a-cryptocurrency-data-catalogue) | [YouTube](https://youtu.be/_YltwetuPK0) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-63-building-a-cryptocurrency-data-catalogue) |
+| [Processing Real-time Crypto Transactions](#data-engineers-lunch-64-processing-real-time-crypto-transactions) | [YouTube](https://youtu.be/77l0bzWlYPM) | 
 
 - - - 
 
@@ -465,5 +466,11 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
 -   In Data Engineer’s Lunch #63, Travis Collins, founder of the open source project DataPM, will present DataPM, how to get access to cryptocurrency, and blockchain data. This is part 1 of a series with Decodable on processing real-time crypto transactions fed by DataPM.
     - [YouTube](https://youtu.be/_YltwetuPK0)
     - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-63-building-a-cryptocurrency-data-catalogue)
+
+- - -
+
+### Data Engineer's Lunch #64: Processing Real-time Crypto Transactions
+-   In Data Engineer’s Lunch #64, Eric Sammer, CEO of Decodable, will discuss their cloud-based streaming SQL engine and how to mine insights from data in real-time. This is part 2 of a series with DataPM on processing real-time crypto transactions fed by DataPM.
+    - [YouTube](https://youtu.be/77l0bzWlYPM)
 
 - - -
