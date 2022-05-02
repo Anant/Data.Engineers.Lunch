@@ -413,7 +413,7 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
     - [YouTube](https://youtu.be/ujHuNqsKeoA)
 
 - - -
-### Data Engineer's Lunch #54: dbt and Spark
+### [Data Engineer's Lunch #54: dbt and Spark](https://blog.anant.us/data-engineers-lunch-54-dbt-and-spark/)
 -   In Data Engineer's Lunch #54, we will discuss the data build tool, a tool for managing data transformations with config files rather than code. We will be connecting it to Apache Spark and using it to perform transformations.
     - [YouTube](https://youtu.be/dwZlYG6RCSY)
     - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-54-dbt-and-spark)
