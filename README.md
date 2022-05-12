@@ -75,6 +75,7 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
 | [Kubevirt](#data-engineers-lunch-61-kubevirt) | [YouTube](https://youtu.be/lbKgWz1wCpQ) | [SlideShare]() |
 | [Building a Cryptocurrency Data Catalogue](#data-engineers-lunch-63-building-a-cryptocurrency-data-catalogue) | [YouTube](https://youtu.be/_YltwetuPK0) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-63-building-a-cryptocurrency-data-catalogue) |
 | [Processing Real-time Crypto Transactions](#data-engineers-lunch-64-processing-real-time-crypto-transactions) | [YouTube](https://youtu.be/77l0bzWlYPM) | 
+| [JanusGraph on Jupyter - Using Notebooks with Graph](#data-engineers-lunch-65-janusgraph-on-jupyter---using-notebooks-with-graph) | [YouTube](https://youtu.be/I62B8ueFABY) | 
 
 - - - 
 
@@ -472,5 +473,11 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
 ### Data Engineer's Lunch #64: Processing Real-time Crypto Transactions
 -   In Data Engineer’s Lunch #64, Eric Sammer, CEO of Decodable, will discuss their cloud-based streaming SQL engine and how to mine insights from data in real-time. This is part 2 of a series with DataPM on processing real-time crypto transactions fed by DataPM.
     - [YouTube](https://youtu.be/77l0bzWlYPM)
+
+- - -
+
+### [Data Engineer's Lunch #65: JanusGraph on Jupyter - Using Notebooks with Graph](https://blog.anant.us/janusgraph-on-jupyter-using-notebooks-with-graph/)
+-   In Data Engineer's Lunch #65, Ryan Quey will discuss the Graph Notebook tool put out by the AWS team on JanusGraph.
+    - [YouTube](https://youtu.be/I62B8ueFABY)
 
 - - -
