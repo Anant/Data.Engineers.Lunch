@@ -76,7 +76,7 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
 | [Building a Cryptocurrency Data Catalogue](#data-engineers-lunch-63-building-a-cryptocurrency-data-catalogue) | [YouTube](https://youtu.be/_YltwetuPK0) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-63-building-a-cryptocurrency-data-catalogue) |
 | [Processing Real-time Crypto Transactions](#data-engineers-lunch-64-processing-real-time-crypto-transactions) | [YouTube](https://youtu.be/77l0bzWlYPM) | 
 | [JanusGraph on Jupyter - Using Notebooks with Graph](#data-engineers-lunch-65-janusgraph-on-jupyter---using-notebooks-with-graph) | [YouTube](https://youtu.be/I62B8ueFABY) | 
-
+| [Airflow and Presto](#data-engineers-lunch-66-airflow-and-presto) | [YouTube]([https://youtu.be/I62B8ueFABY](https://youtu.be/HcxBg6MkBv4)) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-66-airflow-and-presto) |
 - - - 
 
 ### [Data Engineer's Lunch #1: Data Engineering Road-map](https://blog.anant.us/data-engineers-lunch-1-data-engineering-roadmap/)
@@ -479,5 +479,12 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
 ### [Data Engineer's Lunch #65: JanusGraph on Jupyter - Using Notebooks with Graph](https://blog.anant.us/janusgraph-on-jupyter-using-notebooks-with-graph/)
 -   In Data Engineer's Lunch #65, Ryan Quey will discuss the Graph Notebook tool put out by the AWS team on JanusGraph.
     - [YouTube](https://youtu.be/I62B8ueFABY)
+
+- - -
+
+### [Data Engineer's Lunch #66: Airflow and Presto]
+-   In Data Engineer's Lunch #66, Arpan Patel will discuss how to connect Airflow and Presto
+    - [YouTube](https://youtu.be/HcxBg6MkBv4)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-66-airflow-and-presto)
 
 - - -
