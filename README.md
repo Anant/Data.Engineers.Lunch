@@ -433,7 +433,7 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
     - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-56-spring-cloud-data-flow-with-cassandra)
 
 - - -
-### Data Engineer's Lunch #57: StreamSets for Data Engineering
+### [Data Engineer's Lunch #57: StreamSets for Data Engineering](https://blog.anant.us/apache-cassandra-lunch-94-streamsets-and-cassandra/)
 -   In Data Engineer's Lunch #57, we will discuss StreamSets and how it can be used for data engineering.
     - [YouTube](https://youtu.be/_w-gnzSkwCs)
     - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-57-streamsets-for-data-engineering)
@@ -444,7 +444,7 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
     - [YouTube](https://youtu.be/P9NqdpRV3hk)
 
 - - -
-### Data Engineer's Lunch #59: Spark Tasks and Distribution
+### [Data Engineer's Lunch #59: Spark Tasks and Distribution](https://blog.anant.us/data-engineers-lunch-59-spark-tasks-and-distribution/)
 -   In Data Engineer's Lunch #59, we will discuss the way that Spark splits up and distributes work between nodes. We will look at some example code and view in the Spark UI, how it was distributed between nodes.
     - [YouTube](https://youtu.be/kxWOLCMI5OI)
     - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-59-spark-tasks-and-distribution)
@@ -482,7 +482,7 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
 
 - - -
 
-### Data Engineer's Lunch #66: Airflow and Presto
+### [Data Engineer's Lunch #66: Airflow and Presto](https://blog.anant.us/data-engineers-lunch-66-airflow-and-presto/)
 -   In Data Engineer's Lunch #66, Arpan Patel will discuss how to connect Airflow and Presto
     - [YouTube](https://youtu.be/HcxBg6MkBv4)
     - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-66-airflow-and-presto)
