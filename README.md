@@ -77,6 +77,7 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
 | [Processing Real-time Crypto Transactions](#data-engineers-lunch-64-processing-real-time-crypto-transactions) | [YouTube](https://youtu.be/77l0bzWlYPM) | 
 | [JanusGraph on Jupyter - Using Notebooks with Graph](#data-engineers-lunch-65-janusgraph-on-jupyter---using-notebooks-with-graph) | [YouTube](https://youtu.be/I62B8ueFABY) | 
 | [Airflow and Presto](#data-engineers-lunch-66-airflow-and-presto) | [YouTube](https://youtu.be/HcxBg6MkBv4) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-66-airflow-and-presto) |
+| [Machine Learning - Feature Selection](#data-engineers-lunch-67-machine-learning---feature-selection) | [YouTube](https://youtu.be/3CPpoQv2tjU) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-67-machine-learning-feature-selection) |
 - - - 
 
 ### [Data Engineer's Lunch #1: Data Engineering Road-map](https://blog.anant.us/data-engineers-lunch-1-data-engineering-roadmap/)
@@ -433,7 +434,7 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
     - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-56-spring-cloud-data-flow-with-cassandra)
 
 - - -
-### Data Engineer's Lunch #57: StreamSets for Data Engineering
+### [Data Engineer's Lunch #57: StreamSets for Data Engineering](https://blog.anant.us/apache-cassandra-lunch-94-streamsets-and-cassandra/)
 -   In Data Engineer's Lunch #57, we will discuss StreamSets and how it can be used for data engineering.
     - [YouTube](https://youtu.be/_w-gnzSkwCs)
     - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-57-streamsets-for-data-engineering)
@@ -444,7 +445,7 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
     - [YouTube](https://youtu.be/P9NqdpRV3hk)
 
 - - -
-### Data Engineer's Lunch #59: Spark Tasks and Distribution
+### [Data Engineer's Lunch #59: Spark Tasks and Distribution](https://blog.anant.us/data-engineers-lunch-59-spark-tasks-and-distribution/)
 -   In Data Engineer's Lunch #59, we will discuss the way that Spark splits up and distributes work between nodes. We will look at some example code and view in the Spark UI, how it was distributed between nodes.
     - [YouTube](https://youtu.be/kxWOLCMI5OI)
     - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-59-spark-tasks-and-distribution)
@@ -482,9 +483,16 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
 
 - - -
 
-### Data Engineer's Lunch #66: Airflow and Presto
+### [Data Engineer's Lunch #66: Airflow and Presto](https://blog.anant.us/data-engineers-lunch-66-airflow-and-presto/)
 -   In Data Engineer's Lunch #66, Arpan Patel will discuss how to connect Airflow and Presto
     - [YouTube](https://youtu.be/HcxBg6MkBv4)
     - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-66-airflow-and-presto)
+
+- - -
+
+### Data Engineer's Lunch #67: Machine Learning - Feature Selection
+-   In Data Engineer's Lunch #67, Obioma Anomnachi will discuss the process of feature selection as part of a Machine Learning process. Feature selection describes the process of picking particular, relevant data features out of a wider data set, to be used to perform model training. 
+    - [YouTube](https://youtu.be/3CPpoQv2tjU)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-67-machine-learning-feature-selection)
 
 - - -
