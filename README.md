@@ -78,6 +78,7 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
 | [JanusGraph on Jupyter - Using Notebooks with Graph](#data-engineers-lunch-65-janusgraph-on-jupyter---using-notebooks-with-graph) | [YouTube](https://youtu.be/I62B8ueFABY) | 
 | [Airflow and Presto](#data-engineers-lunch-66-airflow-and-presto) | [YouTube](https://youtu.be/HcxBg6MkBv4) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-66-airflow-and-presto) |
 | [Machine Learning - Feature Selection](#data-engineers-lunch-67-machine-learning---feature-selection) | [YouTube](https://youtu.be/3CPpoQv2tjU) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-67-machine-learning-feature-selection) |
+| [DevOps Fundamentals](#data-engineers-lunch-68-devops-fundamentals) | [YouTube](https://youtu.be/eBtrOv_qLHQ) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-68-devops-fundamentals) |
 - - - 
 
 ### [Data Engineer's Lunch #1: Data Engineering Road-map](https://blog.anant.us/data-engineers-lunch-1-data-engineering-roadmap/)
@@ -494,5 +495,12 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
 -   In Data Engineer's Lunch #67, Obioma Anomnachi will discuss the process of feature selection as part of a Machine Learning process. Feature selection describes the process of picking particular, relevant data features out of a wider data set, to be used to perform model training. 
     - [YouTube](https://youtu.be/3CPpoQv2tjU)
     - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-67-machine-learning-feature-selection)
+
+- - -
+
+### Data Engineer's Lunch #68: DevOps Fundamentals
+-   In Data Engineer’s Lunch #68, Will Angel, Technical Product Manager at Caribou Financial, will provide an introduction to DevOps practices and tooling including testing, deployment automation, logging, monitoring, and DevOps principles. Additionally, we will discuss some of the ways that DevOps for data engineering is different from conventional application development. 
+    - [YouTube](https://youtu.be/eBtrOv_qLHQ)
+    - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-68-devops-fundamentals)
 
 - - -
