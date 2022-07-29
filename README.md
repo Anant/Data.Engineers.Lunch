@@ -79,7 +79,7 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
 | 66 | [Airflow and Presto](#data-engineers-lunch-66-airflow-and-presto) | [YouTube](https://youtu.be/HcxBg6MkBv4) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-66-airflow-and-presto) |
 | 67 | [Machine Learning - Feature Selection](#data-engineers-lunch-67-machine-learning---feature-selection) | [YouTube](https://youtu.be/3CPpoQv2tjU) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-67-machine-learning-feature-selection) |
 | 68 | [DevOps Fundamentals](#data-engineers-lunch-68-devops-fundamentals) | [YouTube](https://youtu.be/eBtrOv_qLHQ) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-68-devops-fundamentals) |
-| 69 | [Great Expectations for Data Engineering](#data-engineers-lunch-69-great-expectations-for-data-engineering) | [YouTube](https://youtu.be/GT6xteoS024) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-69-great-expectations-for-data-engineering) |
+| 69 | [Great Expectations for Data Engineering](#data-engineers-lunch-69-great-expectations-for-data-engineering) |  | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-69-great-expectations-for-data-engineering) |
 | 70 | [Apache Iceberg](#data-engineers-lunch-70-apache-iceberg) | [YouTube](https://youtu.be/j-xFdu2TJLY) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-70-apache-iceberg) |
 - - - 
 
@@ -509,7 +509,6 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
 
 ### Data Engineer's Lunch #69: Great Expectations for Data Engineering
 -   In Data Engineer's Lunch #69, Arpan Patel will discuss Great Expectations and how it can be used for data engineering. This will be part one of a series on Great Expectations and will primarily focus on introducing Great Expectations. Future talks will feature tools like Spark and Airflow in conjunction with Great Expectations! 
-    - [YouTube](https://youtu.be/GT6xteoS024)
     - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-69-great-expectations-for-data-engineering)
 
 - - -
