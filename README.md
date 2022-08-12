@@ -81,6 +81,8 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
 | 68 | [DevOps Fundamentals](#data-engineers-lunch-68-devops-fundamentals) | [YouTube](https://youtu.be/eBtrOv_qLHQ) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-68-devops-fundamentals) |
 | 69 | [Great Expectations for Data Engineering](#data-engineers-lunch-69-great-expectations-for-data-engineering) |  | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-69-great-expectations-for-data-engineering) |
 | 70 | [Apache Iceberg](#data-engineers-lunch-70-apache-iceberg) | [YouTube](https://youtu.be/j-xFdu2TJLY) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-70-apache-iceberg) |
+| 71 | [Tools for Cloud Data Engineering](#data-engineers-lunch-71-tools-for-cloud-data-engineering) | [YouTube](https://youtu.be/gcs5oapKEMM) | 
+
 - - - 
 
 ### [Data Engineer's Lunch #1: Data Engineering Road-map](https://blog.anant.us/data-engineers-lunch-1-data-engineering-roadmap/)
@@ -517,5 +519,11 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
 -   In Data Engineer's Lunch #70, watch Alex Merced, Developer Advocate at Dremio, for this webinar to learn the architectural details of why the Hive table format falls short and why the Iceberg table format resolves them, as well as the benefits that stem from Iceberg’s approach. 
     - [YouTube](https://youtu.be/j-xFdu2TJLY)
     - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-70-apache-iceberg)
+
+- - -
+
+### Data Engineer's Lunch #71: Tools for Cloud Data Engineering
+-   In Data Engineer’s Lunch #71, CEO of Anant, Rahul Singh, will discuss tools for cloud data engineering! 
+    - [YouTube](https://youtu.be/gcs5oapKEMM)
 
 - - -
