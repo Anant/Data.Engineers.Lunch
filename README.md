@@ -82,6 +82,8 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
 | 69 | [Great Expectations for Data Engineering](#data-engineers-lunch-69-great-expectations-for-data-engineering) |  | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-69-great-expectations-for-data-engineering) |
 | 70 | [Apache Iceberg](#data-engineers-lunch-70-apache-iceberg) | [YouTube](https://youtu.be/j-xFdu2TJLY) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-70-apache-iceberg) |
 | 71 | [Tools for Cloud Data Engineering](#data-engineers-lunch-71-tools-for-cloud-data-engineering) | [YouTube](https://youtu.be/gcs5oapKEMM) | 
+| 74 | [Table Format Comparison](#data-engineers-lunch-74-table-format-comparison) | [YouTube](https://youtu.be/29Z-8v3YU0w) | 
+| 75 | [Real-time change data capture, processing, and ingest into OLTP and OLAP databases](#data-engineers-lunch-75-real-time-change-data-capture-processing-and-ingest-into-oltp-and-olap-databases) | [YouTube](https://youtu.be/sMQiT8zlR3w) | 
 
 - - - 
 
@@ -525,5 +527,17 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
 ### Data Engineer's Lunch #71: Tools for Cloud Data Engineering
 -   In Data Engineer’s Lunch #71, CEO of Anant, Rahul Singh, will discuss tools for cloud data engineering! 
     - [YouTube](https://youtu.be/gcs5oapKEMM)
+
+- - -
+
+### Data Engineer's Lunch #74: Table Format Comparison
+-   In Data Engineer's Lunch #74, Alex Merced, Developer Advocate for Dremio, will discuss the three major data lake table formats – Apache Iceberg, Apache Hudi, and Delta Lake – covering how they work, their features, and their limitations so you can make an informed decision when architecting your data lakehouse. 
+    - [YouTube](https://youtu.be/29Z-8v3YU0w)
+
+- - -
+
+### Data Engineer's Lunch #75: Real-time change data capture, processing, and ingest into OLTP and OLAP databases
+-   In Data Engineer's Lunch #75, Eric Sammer, CEO of Decodable, will discuss real-time change data capture, processing, and ingest into OLTP and OLAP databases!  
+    - [YouTube](https://youtu.be/sMQiT8zlR3w)
 
 - - -
