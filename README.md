@@ -82,6 +82,12 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
 | 69 | [Great Expectations for Data Engineering](#data-engineers-lunch-69-great-expectations-for-data-engineering) |  | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-69-great-expectations-for-data-engineering) |
 | 70 | [Apache Iceberg](#data-engineers-lunch-70-apache-iceberg) | [YouTube](https://youtu.be/j-xFdu2TJLY) | [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-70-apache-iceberg) |
 | 71 | [Tools for Cloud Data Engineering](#data-engineers-lunch-71-tools-for-cloud-data-engineering) | [YouTube](https://youtu.be/gcs5oapKEMM) | 
+| 72 | [Introduction to Apache Pinot](#data-engineers-lunch-72-introduction-to-apache-pinot) | [YouTube](https://www.youtube.com/watch?v=yQCDZDUzRJM) | 
+| 74 | [Table Format Comparison](#data-engineers-lunch-74-table-format-comparison) | [YouTube](https://youtu.be/29Z-8v3YU0w) |
+| 75 | [Real-time change data capture, processing, and ingest into OLTP and OLAP databases](#data-engineers-lunch-75-real-time-change-data-capture-processing-and ingest-into-oltp-and-olap-databases) | [YouTube](https://youtu.be/sMQiT8zlR3w) |
+| 76 | [Airflow and Google Dataproc](#data-engineers-lunch-76-airflow-and-google-dataproc) | [YouTube](https://youtu.be/08a3uPxZCSo) |
+| 77 | [Apache Arrow Flight SQL: A Universal Standard for High-Performance Data Transfers from Databases](#data-engineers-lunch-77-apache-arrow-flight-sql-a-universal-standard-for-high---performance-data-transfers-from-databases) | [YouTube](https://youtu.be/_XeGucY8r7c) |
+| 78 | [Visualize Data from Cassandra in Superset](#data-engineers-lunch-78-visualize-data-from-cassandra-in-superset) | [YouTube](https://youtu.be/tfH_sDVpzfc) |
 
 - - - 
 
