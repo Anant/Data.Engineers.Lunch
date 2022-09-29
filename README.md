@@ -533,3 +533,39 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
     - [YouTube](https://youtu.be/gcs5oapKEMM)
 
 - - -
+
+### Data Engineer's Lunch #72: Introduction to Apache Pinot
+-   In Data Engineer’s Lunch #72, CEO of Anant, Rahul Singh, will give an overview of the up and coming Apache Pinot project that spun out of LinkedIn and is now being supported by Startree as an enterprise offering. This is the first in a series of talks and workshops on why Pinot is important to the future of real-time data 
+    - [YouTube](https://www.youtube.com/watch?v=yQCDZDUzRJM)
+
+- - -
+
+### Data Engineer's Lunch #74: Table Format Comparison 
+-   In Data Engineer's Lunch #74, Alex Merced, Developer Advocate for Dremio, will discuss the three major data lake table formats – Apache Iceberg, Apache Hudi, and Delta Lake – covering how they work, their features, and their limitations so you can make an informed decision when architecting your data lakehouse.
+    - [YouTube](https://youtu.be/29Z-8v3YU0w)
+
+- - -
+
+### Data Engineer's Lunch #75: Real-time change data capture, processing, and ingest into OLTP and OLAP databases
+-   In Data Engineer's Lunch #75, Eric Sammer, CEO of Decodable, will discuss real-time change data capture, processing, and ingest into OLTP and OLAP databases! 
+    - [YouTube](https://youtu.be/sMQiT8zlR3w)
+
+- - -
+
+### Data Engineer's Lunch #76: Airflow and Google Dataproc
+-   In Data Engineer's Lunch #76, Arpan Patel will cover how to connect Airflow and Dataproc with a demo using an Airflow DAG to create a Dataproc cluster, submit an Apache Spark job to Dataproc, and destroy the Dataproc cluster upon completion.
+    - [YouTube](https://youtu.be/08a3uPxZCSo)
+
+- - -
+
+### Data Engineer's Lunch #77: Apache Arrow Flight SQL: A Universal Standard for High-Performance Data Transfers from Databases
+-   This talk covers why ODBC & JDBC don’t cut it in today’s data world and the problems solved by Arrow, Arrow Flight, and Arrow Flight SQL. Alex will go through how each of these building blocks works as well as an overview of universal ODBC & JDBC drivers built on Arrow Flight SQL, enabling clients to take advantage of this increased performance with zero application changes.
+    - [YouTube](https://youtu.be/_XeGucY8r7c)
+
+- - -
+
+### Data Engineer's Lunch #78: Visualize Data from Cassandra in Superset 
+-   In this lunch, Ryan will walk through how to visualize data from Cassandra in Superset (by means of Presto). Along the way, he shares some observations about his experience and potential use cases that may be interesting to you.
+    - [YouTube](https://youtu.be/tfH_sDVpzfc)
+
+- - -
