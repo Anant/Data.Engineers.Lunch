@@ -88,6 +88,7 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
 | 76 | [Airflow and Google Dataproc](#data-engineers-lunch-76-airflow-and-google-dataproc) | [YouTube](https://youtu.be/08a3uPxZCSo) |
 | 77 | [Apache Arrow Flight SQL: A Universal Standard for High-Performance Data Transfers from Databases](#data-engineers-lunch-77-apache-arrow-flight-sql-a-universal-standard-for-high---performance-data-transfers-from-databases) | [YouTube](https://youtu.be/_XeGucY8r7c) |
 | 78 | [Visualize Data from Cassandra in Superset](#data-engineers-lunch-78-visualize-data-from-cassandra-in-superset) | [YouTube](https://youtu.be/tfH_sDVpzfc) |
+| 79 | [The Second 90% of Data Engineering Projects](#data-engineers-lunch-78-the-second-90-%-of-data-engineering-projects) | [YouTube](https://youtu.be/H2oPmalGnQ8) |
 
 - - - 
 
@@ -567,5 +568,11 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
 ### Data Engineer's Lunch #78: Visualize Data from Cassandra in Superset 
 -   In this lunch, Ryan will walk through how to visualize data from Cassandra in Superset (by means of Presto). Along the way, he shares some observations about his experience and potential use cases that may be interesting to you.
     - [YouTube](https://youtu.be/tfH_sDVpzfc)
+
+- - -
+
+### Data Engineer's Lunch #79: Data Governance: The Second 90% of Data Engineering Projects
+-   You build an ELT pipeline to get data from some source, load it into your data lake, and transform it into a usefully modeled dataset for analysts and business users to consume; another data engineering job well done. Except you now have a new set of data artifacts, access patterns, documentation (hopefully), and security permissions to manage. This talk will provide an overview of Data Governance, which is the art of anticipating, preventing, and mitigating all the risks, costs, and headaches that come with every new data source throughout the data lifecycle.
+    - [YouTube](https://youtu.be/H2oPmalGnQ8)
 
 - - -
