@@ -91,6 +91,7 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
 | 79 | [The Second 90% of Data Engineering Projects](#data-engineers-lunch-79-the-second-90-of-data-engineering-projects) | [YouTube](https://youtu.be/H2oPmalGnQ8) |
 | 80 | [Apache Spark Resource Managers](#data-engineers-lunch-80-apache-spark-resource-managers) | 
 | 81 | [Reverse ETL Tools for Modern Data Platforms](#data-engineers-lunch-81-reverse-etl-tools-for-modern-data-platforms) | [YouTube](https://youtu.be/Bl6xm9ykVg4) |
+| 82 | [Automating Apache Cassandra Operations with Apache Airflow](#data-engineers-lunch-82-automating-apache-cassandra-operations-with-apache-airflow) | [YouTube](https://youtu.be/65WMmsYmIas) |
 - - - 
 
 ### [Data Engineer's Lunch #1: Data Engineering Road-map](https://blog.anant.us/data-engineers-lunch-1-data-engineering-roadmap/)
@@ -587,5 +588,11 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
 ### Data Engineer's Lunch #81: Reverse ETL Tools for Modern Data Platforms
 -   During this lunch, we’ll review some of the open source reverse ETL tools to uncover how to send data back to SaaS systems.
     - [YouTube](https://youtu.be/Bl6xm9ykVg4)
+
+- - -
+
+### Data Engineer's Lunch #82: Automating Apache Cassandra Operations with Apache Airflow
+-
+    - [YouTube](https://youtu.be/65WMmsYmIas)
 
 - - -
