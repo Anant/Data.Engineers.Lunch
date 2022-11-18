@@ -592,7 +592,7 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
 - - -
 
 ### Data Engineer's Lunch #82: Automating Apache Cassandra Operations with Apache Airflow
--
+-   During this lunch, we’ll discuss going beyond cron jobs to manage ETL, Data Hygiene, and Data Import/Export.
     - [YouTube](https://youtu.be/65WMmsYmIas)
 
 - - -
