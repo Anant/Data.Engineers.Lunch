@@ -89,9 +89,10 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
 | 77 | [Apache Arrow Flight SQL: A Universal Standard for High-Performance Data Transfers from Databases](#data-engineers-lunch-77-apache-arrow-flight-sql-a-universal-standard-for-high-performance-data-transfers-from-databases) | [YouTube](https://youtu.be/_XeGucY8r7c) |
 | 78 | [Visualize Data from Cassandra in Superset](#data-engineers-lunch-78-visualize-data-from-cassandra-in-superset) | [YouTube](https://youtu.be/tfH_sDVpzfc) |
 | 79 | [The Second 90% of Data Engineering Projects](#data-engineers-lunch-79-the-second-90-of-data-engineering-projects) | [YouTube](https://youtu.be/H2oPmalGnQ8) |
-| 80 | [Apache Spark Resource Managers](#data-engineers-lunch-80-apache-spark-resource-managers) | 
+| 80 | [Apache Spark Resource Managers](#data-engineers-lunch-80-apache-spark-resource-managers) | [YouTube](https://youtu.be/aCoU6_LIFJA) |
 | 81 | [Reverse ETL Tools for Modern Data Platforms](#data-engineers-lunch-81-reverse-etl-tools-for-modern-data-platforms) | [YouTube](https://youtu.be/Bl6xm9ykVg4) |
 | 82 | [Automating Apache Cassandra Operations with Apache Airflow](#data-engineers-lunch-82-automating-apache-cassandra-operations-with-apache-airflow) | [YouTube](https://youtu.be/65WMmsYmIas) |
+| 83 | [Strategies for Migration to Apache Iceberg - Alex Merced Dremio](#data-engineers-lunch-83-strategies-for-migration-to-apache-iceberg---alex-merced-dremio) | [YouTube](https://youtu.be/T7Z3y00wUg8) |
 - - - 
 
 ### [Data Engineer's Lunch #1: Data Engineering Road-map](https://blog.anant.us/data-engineers-lunch-1-data-engineering-roadmap/)
@@ -581,8 +582,8 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
 
 ### Data Engineer's Lunch #80: Apache Spark Resource Managers
 -   In Data Engineer's Lunch #80, Obioma Anomnachi will compare and contrast the different resource managers available for Apache Spark. We will cover local, standalone, YARN, and Kubernetes resource managers and discuss how each one allows the user different levels of control over how resources given to spark are distributed to Spark applications.
+-    - [YouTube](https://youtu.be/aCoU6_LIFJA)
    
-
 - - -
 
 ### Data Engineer's Lunch #81: Reverse ETL Tools for Modern Data Platforms
@@ -594,5 +595,11 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
 ### Data Engineer's Lunch #82: Automating Apache Cassandra Operations with Apache Airflow
 -   During this lunch, we’ll discuss going beyond cron jobs to manage ETL, Data Hygiene, and Data Import/Export.
     - [YouTube](https://youtu.be/65WMmsYmIas)
+
+- - -
+
+### Data Engineer's Lunch #83: Strategies for Migration to Apache Iceberg - Alex Merced Dremio
+-   In this talk, Dremio Developer Advocate, Alex Merced, discusses strategies for migrating your existing data over to Apache Iceberg. He'll go over the following: How to Migrate Hive, Delta Lake, JSON and CSV sources to Apache Iceberg, Pros and Cons of an In-place or Shadow Migration, Migrating between Apache Iceberg catalogs Hive/Glue -- Arctic/Nessie
+    - [YouTube](https://youtu.be/T7Z3y00wUg8)
 
 - - -
