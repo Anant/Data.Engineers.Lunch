@@ -93,6 +93,7 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
 | 81 | [Reverse ETL Tools for Modern Data Platforms](#data-engineers-lunch-81-reverse-etl-tools-for-modern-data-platforms) | [YouTube](https://youtu.be/Bl6xm9ykVg4) |
 | 82 | [Automating Apache Cassandra Operations with Apache Airflow](#data-engineers-lunch-82-automating-apache-cassandra-operations-with-apache-airflow) | [YouTube](https://youtu.be/65WMmsYmIas) |
 | 83 | [Strategies for Migration to Apache Iceberg - Alex Merced Dremio](#data-engineers-lunch-83-strategies-for-migration-to-apache-iceberg---alex-merced-dremio) | [YouTube](https://youtu.be/T7Z3y00wUg8) |
+| 84 | [Interesting and Exciting Things from AWS re:Invent 2022](#data-engineers-lunch-84-interesting-and-exciting-things-from-aws-reinvent-2022) | [YouTube](https://youtu.be/3Nbj1-K-P3c) |
 - - - 
 
 ### [Data Engineer's Lunch #1: Data Engineering Road-map](https://blog.anant.us/data-engineers-lunch-1-data-engineering-roadmap/)
@@ -601,5 +602,11 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
 ### Data Engineer's Lunch #83: Strategies for Migration to Apache Iceberg - Alex Merced Dremio
 -   In this talk, Dremio Developer Advocate, Alex Merced, discusses strategies for migrating your existing data over to Apache Iceberg. He'll go over the following: How to Migrate Hive, Delta Lake, JSON and CSV sources to Apache Iceberg, Pros and Cons of an In-place or Shadow Migration, Migrating between Apache Iceberg catalogs Hive/Glue -- Arctic/Nessie
     - [YouTube](https://youtu.be/T7Z3y00wUg8)
+
+- - -
+
+### Data Engineer's Lunch #84: Interesting and Exciting Things from AWS re:Invent 2022
+-   In this lunch, Nicholas will deliver a breakdown and description of AWS re:Invent 2022 and some of the cool announcements and learning that occurred there.
+    - [YouTube](https://youtu.be/3Nbj1-K-P3c)
 
 - - -
