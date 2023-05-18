@@ -94,6 +94,16 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
 | 82 | [Automating Apache Cassandra Operations with Apache Airflow](#data-engineers-lunch-82-automating-apache-cassandra-operations-with-apache-airflow) | [YouTube](https://youtu.be/65WMmsYmIas) |
 | 83 | [Strategies for Migration to Apache Iceberg - Alex Merced Dremio](#data-engineers-lunch-83-strategies-for-migration-to-apache-iceberg---alex-merced-dremio) | [YouTube](https://youtu.be/T7Z3y00wUg8) |
 | 84 | [Interesting and Exciting Things from AWS re:Invent 2022](#data-engineers-lunch-84-interesting-and-exciting-things-from-aws-reinvent-2022) | [YouTube](https://youtu.be/3Nbj1-K-P3c) |
+| 85 | [Designing a Modern Data Stack](#data-engineers-lunch-85-designing-a-modern-data-stack) | [YouTube](https://www.youtube.com/live/8qRmHMhfHDU?feature=share)  |
+| 86 | [Building Real-Time Applications at Scale: A Case Study in Cyclist Crash Detection](#data-engineers-lunch-86-building-real-time-applications-at-scale) | [YouTube](https://www.youtube.com/live/U4DgMktXyW0?feature=share) |
+| 87 | [ChatGPT for Data Engineering](#data-engineers-lunch-87-chatgpt-for-data-engineering) | [YouTube](https://www.youtube.com/live/HF9idzrZ3iQ?feature=share) |
+| 89 | [Machine Learning Orchestration with Airflow](#data-engineers-lunch-89-machine-learning-orchestration-with-airflow) | [YouTube](https://www.youtube.com/live/otvZ587sDbc?feature=share) |
+| 90 | [Migrating SQL Data with Arcion](#data-engineers-lunch-90-migrating-sql-data-with-arcion) | [YouTube](https://www.youtube.com/live/fUs3WMQL0No?feature=share) |
+| 91 | [Deploying Google-managed Instance Groups with Terraform](#data-engineers-lunch-91-deploying-google-managed-instance-groups-with-terraform) | [YouTube](https://www.youtube.com/live/CTXAG4xK-Pg?feature=share) |
+| 92 | [GCP Managed Instance Groups with Terraform Pt. 2](#data-engineers-lunch-92-gcp-managed-instance-groups-with-terraform-pt-2) | [YouTube](https://www.youtube.com/live/IcEiDl5SdIA?feature=share) |
+| 93 | [LLM / AI Engineering for Software & Data Engineers](#data-engineers-lunch-93-LLM-AI-engineering-for-software-data-engineers) | [YouTube](https://www.youtube.com/live/1mMVzLG2u8M?feature=share) |
+| 94 | [Upgrading Postgres for On-Prem IoT](#data-engineers-lunch-94-upgrading-postgres-for-on-prem-iot) | [YouTube](https://www.youtube.com/live/thjUJWrLunM?feature=share) |
+| 95 | [Python Parallel Processing Frameworks](#data-engineers-lunch-95-python-parallel-processing-frameworks) | [YouTube](https://www.youtube.com/live/tFzNcZSdHfo?feature=share) |
 - - - 
 
 ### [Data Engineer's Lunch #1: Data Engineering Road-map](https://blog.anant.us/data-engineers-lunch-1-data-engineering-roadmap/)
@@ -608,5 +618,65 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
 ### Data Engineer's Lunch #84: Interesting and Exciting Things from AWS re:Invent 2022
 -   In this lunch, Nicholas will deliver a breakdown and description of AWS re:Invent 2022 and some of the cool announcements and learning that occurred there.
     - [YouTube](https://youtu.be/3Nbj1-K-P3c)
+
+- - -
+
+### Data Engineer's Lunch #85: Designing a Modern Data Stack
+-   What are the design considerations that go into architecting a modern data warehouse? This lunch will cover some of the requirements analysis, design decisions, and execution challenges of building a modern data lake/data warehouse.
+    - [YouTube](https://www.youtube.com/live/8qRmHMhfHDU?feature=share)
+
+- - -
+
+### Data Engineer's Lunch #86: Building Real-Time Applications at Scale
+-   As the demand for real-time data processing continues to grow, so too do the challenges associated with building production-ready applications that can handle large volumes of data and handle it quickly. In this talk, we will explore common problems faced when building real-time applications at scale, with a focus on a specific use case: detecting and responding to cyclist crashes. Using telemetry data collected from a fitness app, we’ll demonstrate how we used a combination of Apache Kafka and Python-based microservices running on Kubernetes to build a pipeline for processing and analyzing this data in real-time. We'll also discuss how we used machine learning techniques to build a model for detecting collisions and how we implemented notifications to alert family members of a crash. Our ultimate goal is to help you navigate the challenges that come with building data-intensive, real-time applications that use ML models. By showcasing a real-world example, we aim to provide practical solutions and insights that you can apply to your own projects.
+    - [YouTube](https://www.youtube.com/live/U4DgMktXyW0?feature=share)
+
+- - -
+
+### Data Engineer's Lunch #87: ChatGPT for Data Engineering
+-   Learn how to use ChatGPT for basic data engineering tasks such as data modeling, ETL, data cleanup, code conversion, and data science.
+    - [YouTube](https://www.youtube.com/live/HF9idzrZ3iQ?feature=share)
+
+- - -
+
+### Data Engineer's Lunch #89: Machine Learning Orchestration with Airflow
+-   In Data Engineer's Lunch 89, Obioma Anomnachi will discuss how to manage and schedule Machine Learning operations via Airflow. Learn how you can write complete end-to-end pipelines starting with retrieving raw data to serving ML predictions to end-users, entirely in Airflow.
+    - [YouTube](https://www.youtube.com/live/otvZ587sDbc?feature=share)
+
+- - -
+
+### Data Engineer's Lunch #90: Migrating SQL Data with Arcion
+-   If you're looking to migrate SQL data for your organization, you won't want to miss this informative talk on Arcion. Designed to simplify the data migration process, Arcion offers a seamless solution that enables you to move your SQL data quickly and efficiently. During this talk, you'll discover the many benefits of using Arcion for data migration, including its intuitive interface and powerful automation features. You'll also learn how to leverage Arcion's robust capabilities to streamline your SQL data migration process, regardless of the size or complexity of your data sets.
+    - [YouTube](https://www.youtube.com/live/fUs3WMQL0No?feature=share)
+
+- - -
+
+### Data Engineer's Lunch #91: Deploying Google-managed Instance Groups with Terraform
+-   In this lunch, we'll show you how to deploy a Managed Instance Group using Terraform. We'll explain the different methods and demonstrate configurations, lessons learned, and a simple example for deploying a Managed Instance Group with Terraform in GCP.
+    - [YouTube](https://www.youtube.com/live/CTXAG4xK-Pg?feature=share)
+
+- - -
+
+### Data Engineer's Lunch #92: GCP Managed Instance Groups with Terraform Pt. 2
+-   In the second in a series on Google Managed Instance Groups, Anant Architect Nicholas Brackley details methods for implementing auto-healing and updating the image used by the group.
+    - [YouTube](https://www.youtube.com/live/IcEiDl5SdIA?feature=share)
+
+- - -
+
+### Data Engineer's Lunch #93: LLM / AI Engineering for Software & Data Engineers
+-   During this lunch, we'll cover what you need to know to get started in LLM / GPT engineering as a Software and/or Data Engineer. This lunch covers the fundamentals of LLM, some patterns, and how to get started.
+    - [YouTube](https://www.youtube.com/live/1mMVzLG2u8M?feature=share)
+
+- - -
+
+### Data Engineer's Lunch #94: Upgrading Postgres for On-Prem IoT
+-   Join Will Angel for a talk about his journey upgrading an on-prem IoT system's Postgres database and some of the techniques used to improve local database performance for analytical systems.
+    - [YouTube](https://www.youtube.com/live/thjUJWrLunM?feature=share)
+
+- - -
+
+### Data Engineer's Lunch #95: Python Parallel Processing Frameworks
+-   In Data Engineer's Lunch 94, Obioma Anomnachi will be sharing his expertise on the topic of parallel computing for Python programmers. During the event, Obioma will delve into the various pathways available for Python developers who wish to execute their code in parallel. You will learn about the benefits of parallel processing, how it can improve the performance of your code, and the different tools and frameworks that can be used to achieve this.
+    - [YouTube](https://www.youtube.com/live/tFzNcZSdHfo?feature=share)
 
 - - -
