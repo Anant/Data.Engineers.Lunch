@@ -380,7 +380,7 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
     - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-42-introduction-to-databricks)
 
 - - -
-### Data Engineer's Lunch #43: Bodo.ai - Karthik Narayanan
+### [Data Engineer's Lunch #43: Bodo.ai](https://youtu.be/TIzdmEBdQ8Q)
 -  In Data Engineer's Lunch #43, Karthik Narayanan Principal Solutions Architect and Bodo.ai will be demonstrating what Bodo.ai is and its capabilities.
     - [YouTube](https://youtu.be/TIzdmEBdQ8Q)
 
@@ -409,7 +409,7 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
     - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-47-airflow-on-kubernetes)
 
 - - -
-### Data Engineer's Lunch #48: Veezoo - João Pedro Monteiro
+### [Data Engineer's Lunch #48: Veezoo - João Pedro Monteiro](https://youtu.be/kVMEIBiAu8E)
 -   In Data Engineer's Lunch #48, João Pedro Monteiro (JP), co-founder and CTO of Veezoo, will be introducing Veezoo and showing how natural language interfaces are the key to enabling data democratization at companies.
     - [YouTube](https://youtu.be/kVMEIBiAu8E)
 
@@ -426,18 +426,18 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
     - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-50-airbyte-for-data-engineering)
 
 - - -
-### Data Engineer's Lunch #51: Comparison of Managed Airflow Options
+### [Data Engineer's Lunch #51: Comparison of Managed Airflow Options](https://youtu.be/AI7o_2aBWZs)
 -   In Data Engineer's Lunch #51: Comparison of Managed Airflow Options, guest speaker Andres Namm will be comparing AWS Airflow, GCP Airflow, Astronomer vs. self-managed Airflow.
     - [YouTube](https://youtu.be/AI7o_2aBWZs)
 
 - - -
-### Data Engineer's Lunch #52: JupyterHub/JupyterLab on Kubernetes
+### [Data Engineer's Lunch #52: JupyterHub/JupyterLab on Kubernetes](https://youtu.be/QaXHuqHr8bQ)
 -   In Data Engineer's Lunch #52 we will deploy JupyterHub/JupyterLab on Kubernetes
     - [YouTube](https://youtu.be/QaXHuqHr8bQ)
     - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-52-jupyterhubjupyterlab-on-kubernetes)
 
 - - -
-### Data Engineer's Lunch #53: 2021 in Review
+### [Data Engineer's Lunch #53: 2021 in Review](https://youtu.be/ujHuNqsKeoA)
 -   In Data Engineer's Lunch #53, we discussed some of our most popular webinars from 2021 and received feedback from the audience about what they would like to see in 2022.
     - [YouTube](https://youtu.be/ujHuNqsKeoA)
 
@@ -448,13 +448,13 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
     - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-54-dbt-and-spark)
 
 - - -
-### Data Engineer's Lunch #55: Get Started in Data Engineering
+### [Data Engineer's Lunch #55: Get Started in Data Engineering](https://youtu.be/8Z5GmzvvPkQ)
 -   In Data Engineer's Lunch #55, CEO of Anant, Rahul Singh, will cover 10 resources every data engineer needs to get started or master their game.
     - [YouTube](https://youtu.be/8Z5GmzvvPkQ)
     - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-55-get-started-in-data-engineering)
 
 - - -
-### Data Engineer's Lunch #56: Spring Cloud Data Flow with Cassandra
+### [Data Engineer's Lunch #56: Spring Cloud Data Flow with Cassandra](https://youtu.be/9_51LRv8Yxs)
 -   In Data Engineer's Lunch #55 we will be going over how to integrate Spring Cloud Data Flow with Cassandra.
     - [YouTube](https://youtu.be/9_51LRv8Yxs)
     - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-56-spring-cloud-data-flow-with-cassandra)
@@ -466,7 +466,7 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
     - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-57-streamsets-for-data-engineering)
 
 - - -
-### Data Engineer's Lunch #58: InfinyOn
+### [Data Engineer's Lunch #58: InfinyOn](https://youtu.be/P9NqdpRV3hk)
 -   In Data Engineer’s Lunch #58, Sehyo Chang, founder and CTO of InfinyOn, will give an introduction to Fluvio OSS and the InfinyOn Cloud data streaming platform.
     - [YouTube](https://youtu.be/P9NqdpRV3hk)
 
@@ -477,27 +477,27 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
     - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-59-spark-tasks-and-distribution)
 
 - - -
-### Data Engineer's Lunch #60: Series - Developing Enterprise Consciousness
+### [Data Engineer's Lunch #60: Series - Developing Enterprise Consciousness](https://youtu.be/jkNwWbtw5QE)
 -   In Data Engineer's Lunch #60, CEO of Anant, Rahul Singh, will discuss modern data processing / pipeline approaches. Want to learn about modern data engineering patterns & practices for global data platforms? High-level overview of different types, frameworks, and workflows in data processing and pipeline design.
     - [YouTube](https://youtu.be/jkNwWbtw5QE)
     - [SlideShare]()
 
 - - -
-### Data Engineer's Lunch #61: Kubevirt
+### [Data Engineer's Lunch #61: Kubevirt](https://youtu.be/lbKgWz1wCpQ)
 -   In Data Engineer's Lunch #61, Stefan Nikolovski will discuss Kubevirt.
     - [YouTube](https://youtu.be/lbKgWz1wCpQ)
     - [SlideShare]()
 
 - - -
 
-### Data Engineer's Lunch #63: Building a Cryptocurrency Data Catalogue
+### [Data Engineer's Lunch #63: Building a Cryptocurrency Data Catalogue](https://youtu.be/_YltwetuPK0)
 -   In Data Engineer’s Lunch #63, Travis Collins, founder of the open source project DataPM, will present DataPM, how to get access to cryptocurrency, and blockchain data. This is part 1 of a series with Decodable on processing real-time crypto transactions fed by DataPM.
     - [YouTube](https://youtu.be/_YltwetuPK0)
     - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-63-building-a-cryptocurrency-data-catalogue)
 
 - - -
 
-### Data Engineer's Lunch #64: Processing Real-time Crypto Transactions
+### [Data Engineer's Lunch #64: Processing Real-time Crypto Transactions](https://youtu.be/77l0bzWlYPM)
 -   In Data Engineer’s Lunch #64, Eric Sammer, CEO of Decodable, will discuss their cloud-based streaming SQL engine and how to mine insights from data in real-time. This is part 2 of a series with DataPM on processing real-time crypto transactions fed by DataPM.
     - [YouTube](https://youtu.be/77l0bzWlYPM)
 
@@ -516,167 +516,185 @@ Check out the Data Engineer's Lunch playlist on [Youtube](https://www.youtube.co
 
 - - -
 
-### Data Engineer's Lunch #67: Machine Learning - Feature Selection
+### [Data Engineer's Lunch #67: Machine Learning - Feature Selection](https://youtu.be/3CPpoQv2tjU)
 -   In Data Engineer's Lunch #67, Obioma Anomnachi will discuss the process of feature selection as part of a Machine Learning process. Feature selection describes the process of picking particular, relevant data features out of a wider data set, to be used to perform model training. 
     - [YouTube](https://youtu.be/3CPpoQv2tjU)
     - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-67-machine-learning-feature-selection)
 
 - - -
 
-### Data Engineer's Lunch #68: DevOps Fundamentals
+### [Data Engineer's Lunch #68: DevOps Fundamentals](https://youtu.be/eBtrOv_qLHQ)
 -   In Data Engineer’s Lunch #68, Will Angel, Technical Product Manager at Caribou Financial, will provide an introduction to DevOps practices and tooling including testing, deployment automation, logging, monitoring, and DevOps principles. Additionally, we will discuss some of the ways that DevOps for data engineering is different from conventional application development. 
     - [YouTube](https://youtu.be/eBtrOv_qLHQ)
     - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-68-devops-fundamentals)
 
 - - -
 
-### Data Engineer's Lunch #69: Great Expectations for Data Engineering
+### [Data Engineer's Lunch #69: Great Expectations for Data Engineering]
 -   In Data Engineer's Lunch #69, Arpan Patel will discuss Great Expectations and how it can be used for data engineering. This will be part one of a series on Great Expectations and will primarily focus on introducing Great Expectations. Future talks will feature tools like Spark and Airflow in conjunction with Great Expectations! 
     - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-69-great-expectations-for-data-engineering)
 
 - - -
 
-### Data Engineer's Lunch #70: Apache Iceberg
+### [Data Engineer's Lunch #70: Apache Iceberg](https://youtu.be/j-xFdu2TJLY)
 -   In Data Engineer's Lunch #70, watch Alex Merced, Developer Advocate at Dremio, for this webinar to learn the architectural details of why the Hive table format falls short and why the Iceberg table format resolves them, as well as the benefits that stem from Iceberg’s approach. 
     - [YouTube](https://youtu.be/j-xFdu2TJLY)
     - [SlideShare](https://www.slideshare.net/AnantCorp/data-engineers-lunch-70-apache-iceberg)
 
 - - -
 
-### Data Engineer's Lunch #71: Tools for Cloud Data Engineering
+### [Data Engineer's Lunch #71: Tools for Cloud Data Engineering](https://youtu.be/gcs5oapKEMM)
 -   In Data Engineer’s Lunch #71, CEO of Anant, Rahul Singh, will discuss tools for cloud data engineering! 
     - [YouTube](https://youtu.be/gcs5oapKEMM)
 
 - - -
 
-### Data Engineer's Lunch #72: Introduction to Apache Pinot
--   In Data Engineer’s Lunch #72, CEO of Anant, Rahul Singh, will give an overview of the up and coming Apache Pinot project that spun out of LinkedIn and is now being supported by Startree as an enterprise offering. This is the first in a series of talks and workshops on why Pinot is important to the future of real-time data 
+### [Data Engineer's Lunch #72: Introduction to Apache Pinot](https://www.youtube.com/watch?v=yQCDZDUzRJM)
+-   In Data Engineer’s Lunch #72, CEO of Anant, Rahul Singh, will give an overview of the up-and-coming Apache Pinot project that spun out of LinkedIn and is now being supported by Startree as an enterprise offering. This is the first in a series of talks and workshops on why Pinot is important to the future of real-time data 
     - [YouTube](https://www.youtube.com/watch?v=yQCDZDUzRJM)
 
 - - -
 
-### Data Engineer's Lunch #74: Table Format Comparison 
+### [Data Engineer's Lunch #74: Table Format Comparison](https://youtu.be/29Z-8v3YU0w)
 -   In Data Engineer's Lunch #74, Alex Merced, Developer Advocate for Dremio, will discuss the three major data lake table formats – Apache Iceberg, Apache Hudi, and Delta Lake – covering how they work, their features, and their limitations so you can make an informed decision when architecting your data lakehouse.
     - [YouTube](https://youtu.be/29Z-8v3YU0w)
 
 - - -
 
-### Data Engineer's Lunch #75: Real-time change data capture, processing, and ingest into OLTP and OLAP databases
+### [Data Engineer's Lunch #75: Real-time change data capture, processing, and ingest into OLTP and OLAP databases](https://youtu.be/sMQiT8zlR3w)
 -   In Data Engineer's Lunch #75, Eric Sammer, CEO of Decodable, will discuss real-time change data capture, processing, and ingest into OLTP and OLAP databases! 
     - [YouTube](https://youtu.be/sMQiT8zlR3w)
 
 - - -
 
-### Data Engineer's Lunch #76: Airflow and Google Dataproc
+### [Data Engineer's Lunch #76: Airflow and Google Dataproc](https://youtu.be/08a3uPxZCSo)
 -   In Data Engineer's Lunch #76, Arpan Patel will cover how to connect Airflow and Dataproc with a demo using an Airflow DAG to create a Dataproc cluster, submit an Apache Spark job to Dataproc, and destroy the Dataproc cluster upon completion.
     - [YouTube](https://youtu.be/08a3uPxZCSo)
 
 - - -
 
-### Data Engineer's Lunch #77: Apache Arrow Flight SQL: A Universal Standard for High-Performance Data Transfers from Databases
+### [Data Engineer's Lunch #77: Apache Arrow Flight SQL: A Universal Standard for High-Performance Data Transfers from Databases](https://youtu.be/_XeGucY8r7c)
 -   This talk covers why ODBC & JDBC don’t cut it in today’s data world and the problems solved by Arrow, Arrow Flight, and Arrow Flight SQL. Alex will go through how each of these building blocks works as well as an overview of universal ODBC & JDBC drivers built on Arrow Flight SQL, enabling clients to take advantage of this increased performance with zero application changes.
     - [YouTube](https://youtu.be/_XeGucY8r7c)
 
 - - -
 
-### Data Engineer's Lunch #78: Visualize Data from Cassandra in Superset 
+### [Data Engineer's Lunch #78: Visualize Data from Cassandra in Superset](https://youtu.be/tfH_sDVpzfc) 
 -   In this lunch, Ryan will walk through how to visualize data from Cassandra in Superset (by means of Presto). Along the way, he shares some observations about his experience and potential use cases that may be interesting to you.
     - [YouTube](https://youtu.be/tfH_sDVpzfc)
 
 - - -
 
-### Data Engineer's Lunch #79: Data Governance: The Second 90% of Data Engineering Projects
+### [Data Engineer's Lunch #79: Data Governance: The Second 90% of Data Engineering Projects](https://youtu.be/H2oPmalGnQ8)
 -   You build an ELT pipeline to get data from some source, load it into your data lake, and transform it into a usefully modeled dataset for analysts and business users to consume; another data engineering job well done. Except you now have a new set of data artifacts, access patterns, documentation (hopefully), and security permissions to manage. This talk will provide an overview of Data Governance, which is the art of anticipating, preventing, and mitigating all the risks, costs, and headaches that come with every new data source throughout the data lifecycle.
     - [YouTube](https://youtu.be/H2oPmalGnQ8)
 
 - - -
 
-### Data Engineer's Lunch #80: Apache Spark Resource Managers
--   In Data Engineer's Lunch #80, Obioma Anomnachi will compare and contrast the different resource managers available for Apache Spark. We will cover local, standalone, YARN, and Kubernetes resource managers and discuss how each one allows the user different levels of control over how resources given to spark are distributed to Spark applications.
+### [Data Engineer's Lunch #80: Apache Spark Resource Managers](https://youtu.be/aCoU6_LIFJA)
+-   In Data Engineer's Lunch #80, Obioma Anomnachi will compare and contrast the different resource managers available for Apache Spark. We will cover local, standalone, YARN, and Kubernetes resource managers and discuss how each one allows the user different levels of control over how resources given to Spark are distributed to Spark applications.
 -    - [YouTube](https://youtu.be/aCoU6_LIFJA)
    
 - - -
 
-### Data Engineer's Lunch #81: Reverse ETL Tools for Modern Data Platforms
--   During this lunch, we’ll review some of the open source reverse ETL tools to uncover how to send data back to SaaS systems.
+### [Data Engineer's Lunch #81: Reverse ETL Tools for Modern Data Platforms](https://youtu.be/Bl6xm9ykVg4)
+-   During this lunch, we’ll review some of the open-source reverse ETL tools to uncover how to send data back to SaaS systems.
     - [YouTube](https://youtu.be/Bl6xm9ykVg4)
 
 - - -
 
-### Data Engineer's Lunch #82: Automating Apache Cassandra Operations with Apache Airflow
+### [Data Engineer's Lunch #82: Automating Apache Cassandra Operations with Apache Airflow](https://youtu.be/65WMmsYmIas)
 -   During this lunch, we’ll discuss going beyond cron jobs to manage ETL, Data Hygiene, and Data Import/Export.
     - [YouTube](https://youtu.be/65WMmsYmIas)
 
 - - -
 
-### Data Engineer's Lunch #83: Strategies for Migration to Apache Iceberg - Alex Merced Dremio
--   In this talk, Dremio Developer Advocate, Alex Merced, discusses strategies for migrating your existing data over to Apache Iceberg. He'll go over the following: How to Migrate Hive, Delta Lake, JSON and CSV sources to Apache Iceberg, Pros and Cons of an In-place or Shadow Migration, Migrating between Apache Iceberg catalogs Hive/Glue -- Arctic/Nessie
+### [Data Engineer's Lunch #83: Strategies for Migration to Apache Iceberg](https://youtu.be/T7Z3y00wUg8)
+-   In this talk, Dremio Developer Advocate, Alex Merced, discusses strategies for migrating your existing data over to Apache Iceberg. He'll go over the following: How to Migrate Hive, Delta Lake, JSON, and CSV sources to Apache Iceberg, Pros and Cons of an In-place or Shadow Migration, Migrating between Apache Iceberg catalogs Hive/Glue -- Arctic/Nessie
     - [YouTube](https://youtu.be/T7Z3y00wUg8)
 
 - - -
 
-### Data Engineer's Lunch #84: Interesting and Exciting Things from AWS re:Invent 2022
+### [Data Engineer's Lunch #84: Interesting and Exciting Things from AWS re:Invent 2022](https://youtu.be/3Nbj1-K-P3c)
 -   In this lunch, Nicholas will deliver a breakdown and description of AWS re:Invent 2022 and some of the cool announcements and learning that occurred there.
     - [YouTube](https://youtu.be/3Nbj1-K-P3c)
 
 - - -
 
-### Data Engineer's Lunch #85: Designing a Modern Data Stack
+### [Data Engineer's Lunch #85: Designing a Modern Data Stack](https://www.youtube.com/live/8qRmHMhfHDU?feature=share)
 -   What are the design considerations that go into architecting a modern data warehouse? This lunch will cover some of the requirements analysis, design decisions, and execution challenges of building a modern data lake/data warehouse.
     - [YouTube](https://www.youtube.com/live/8qRmHMhfHDU?feature=share)
 
 - - -
 
-### Data Engineer's Lunch #86: Building Real-Time Applications at Scale
+### [Data Engineer's Lunch #86: Building Real-Time Applications at Scale](https://www.youtube.com/live/U4DgMktXyW0?feature=share)
 -   As the demand for real-time data processing continues to grow, so too do the challenges associated with building production-ready applications that can handle large volumes of data and handle it quickly. In this talk, we will explore common problems faced when building real-time applications at scale, with a focus on a specific use case: detecting and responding to cyclist crashes. Using telemetry data collected from a fitness app, we’ll demonstrate how we used a combination of Apache Kafka and Python-based microservices running on Kubernetes to build a pipeline for processing and analyzing this data in real-time. We'll also discuss how we used machine learning techniques to build a model for detecting collisions and how we implemented notifications to alert family members of a crash. Our ultimate goal is to help you navigate the challenges that come with building data-intensive, real-time applications that use ML models. By showcasing a real-world example, we aim to provide practical solutions and insights that you can apply to your own projects.
     - [YouTube](https://www.youtube.com/live/U4DgMktXyW0?feature=share)
 
 - - -
 
-### Data Engineer's Lunch #87: ChatGPT for Data Engineering
+### [Data Engineer's Lunch #87: ChatGPT for Data Engineering](https://www.youtube.com/live/HF9idzrZ3iQ?feature=share)
 -   Learn how to use ChatGPT for basic data engineering tasks such as data modeling, ETL, data cleanup, code conversion, and data science.
     - [YouTube](https://www.youtube.com/live/HF9idzrZ3iQ?feature=share)
 
 - - -
 
-### Data Engineer's Lunch #89: Machine Learning Orchestration with Airflow
+### [Data Engineer's Lunch #89: Machine Learning Orchestration with Airflow](https://www.youtube.com/live/otvZ587sDbc?feature=share)
 -   In Data Engineer's Lunch 89, Obioma Anomnachi will discuss how to manage and schedule Machine Learning operations via Airflow. Learn how you can write complete end-to-end pipelines starting with retrieving raw data to serving ML predictions to end-users, entirely in Airflow.
     - [YouTube](https://www.youtube.com/live/otvZ587sDbc?feature=share)
 
 - - -
 
-### Data Engineer's Lunch #90: Migrating SQL Data with Arcion
+### [Data Engineer's Lunch #90: Migrating SQL Data with Arcion](https://www.youtube.com/live/fUs3WMQL0No?feature=share)
 -   If you're looking to migrate SQL data for your organization, you won't want to miss this informative talk on Arcion. Designed to simplify the data migration process, Arcion offers a seamless solution that enables you to move your SQL data quickly and efficiently. During this talk, you'll discover the many benefits of using Arcion for data migration, including its intuitive interface and powerful automation features. You'll also learn how to leverage Arcion's robust capabilities to streamline your SQL data migration process, regardless of the size or complexity of your data sets.
     - [YouTube](https://www.youtube.com/live/fUs3WMQL0No?feature=share)
 
 - - -
 
-### Data Engineer's Lunch #91: Deploying Google-managed Instance Groups with Terraform
+### [Data Engineer's Lunch #91: Deploying Google-managed Instance Groups with Terraform](https://www.youtube.com/live/CTXAG4xK-Pg?feature=share)
 -   In this lunch, we'll show you how to deploy a Managed Instance Group using Terraform. We'll explain the different methods and demonstrate configurations, lessons learned, and a simple example for deploying a Managed Instance Group with Terraform in GCP.
     - [YouTube](https://www.youtube.com/live/CTXAG4xK-Pg?feature=share)
 
 - - -
 
-### Data Engineer's Lunch #92: GCP Managed Instance Groups with Terraform Pt. 2
+### [Data Engineer's Lunch #92: GCP Managed Instance Groups with Terraform Pt. 2](https://www.youtube.com/live/IcEiDl5SdIA?feature=share)
 -   In the second in a series on Google Managed Instance Groups, Anant Architect Nicholas Brackley details methods for implementing auto-healing and updating the image used by the group.
     - [YouTube](https://www.youtube.com/live/IcEiDl5SdIA?feature=share)
 
 - - -
 
-### Data Engineer's Lunch #93: LLM / AI Engineering for Software & Data Engineers
+### [Data Engineer's Lunch #93: LLM / AI Engineering for Software & Data Engineers](https://www.youtube.com/live/1mMVzLG2u8M?feature=share)
 -   During this lunch, we'll cover what you need to know to get started in LLM / GPT engineering as a Software and/or Data Engineer. This lunch covers the fundamentals of LLM, some patterns, and how to get started.
     - [YouTube](https://www.youtube.com/live/1mMVzLG2u8M?feature=share)
 
 - - -
 
-### Data Engineer's Lunch #94: Upgrading Postgres for On-Prem IoT
+### [Data Engineer's Lunch #94: Upgrading Postgres for On-Prem IoT](https://www.youtube.com/live/thjUJWrLunM?feature=share)
 -   Join Will Angel for a talk about his journey upgrading an on-prem IoT system's Postgres database and some of the techniques used to improve local database performance for analytical systems.
     - [YouTube](https://www.youtube.com/live/thjUJWrLunM?feature=share)
 
 - - -
 
-### Data Engineer's Lunch #95: Python Parallel Processing Frameworks
+### [Data Engineer's Lunch #95: Python Parallel Processing Frameworks](https://www.youtube.com/live/tFzNcZSdHfo?feature=share)
 -   In Data Engineer's Lunch 94, Obioma Anomnachi will be sharing his expertise on the topic of parallel computing for Python programmers. During the event, Obioma will delve into the various pathways available for Python developers who wish to execute their code in parallel. You will learn about the benefits of parallel processing, how it can improve the performance of your code, and the different tools and frameworks that can be used to achieve this.
     - [YouTube](https://www.youtube.com/live/tFzNcZSdHfo?feature=share)
+
+- - -
+
+### [Data Engineer's Lunch #96: Intro to Real-Time Analytics Using Apache Pinot](https://www.youtube.com/live/AEuWx7yX6xw?feature=share)
+-   In this lunch, we will introduce the concepts of Real Time Analytics, why it is important, the evolution of Analytics, and how companies such as LinkedIn, Stripe, Uber, and more are using Real Time analytics to grow their audience and improve usability by using Apache Pinot. What is Apache Pinot? Followed by Demo and Q&A.
+    - [YouTube](https://www.youtube.com/live/AEuWx7yX6xw?feature=share)
+
+- - -
+
+### [Data Engineer's Lunch #97: Apache HDFS: Hadoop Distributed File System](https://www.youtube.com/live/OG0RtW9lYS0?feature=share)
+-   In this lunch we will discuss the use of the Hadoop Distributed File System for data engineering applications.
+    - [YouTube](https://www.youtube.com/live/OG0RtW9lYS0?feature=share)
+
+- - -
+
+### [Data Engineer's Lunch #98: The Who, What, and Why of Data Lake Table Formats](https://www.youtube.com/live/mXitwotQaAU?feature=share)
+-   A comprehensive exploration of the intricacies of Data Lake Table Formats and their impact on business analytics. Data lake table formats are a critical component of modern data analytics. By the end of this presentation, you will better understand data lake table formats and how they can be used to improve business analytics.
+    - [YouTube](https://www.youtube.com/live/mXitwotQaAU?feature=share)
 
 - - -
